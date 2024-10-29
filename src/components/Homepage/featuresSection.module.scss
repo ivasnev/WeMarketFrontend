@@ -1,0 +1,186 @@
+@use "../utils" as *;
+@use "../global" as *;
+
+.featuresSection {
+  display: flex;
+  flex-direction: column;
+}
+
+.section3 {
+  display: flex;
+  flex-direction: column;
+  margin: 24px auto 0;
+  width: 1320.0001220703125px;
+  max-width: 85%;
+  background-color: rgb(255 255 255);
+  border-radius: 6px;
+  outline: 1px solid rgb(228 231 233);
+  outline-offset: -1px;
+}
+
+.flex_row {
+  display: flex;
+  align-items: center;
+  gap: 0 27px;
+  margin: 16px;
+
+  @include xxl {
+    margin: 16px auto;
+  }
+
+  @include xs {
+    column-gap: 16px;
+  }
+
+  @include tn {
+    column-gap: 8px;
+  }
+}
+
+.content_box2 {
+  display: flex;
+  flex-direction: column;
+  width: 280px;
+  min-width: 0;
+  background-color: rgb(255 255 255);
+}
+
+.flex_row1 {
+  display: flex;
+  gap: 0 16px;
+  margin: 16px;
+
+  @include tn {
+    column-gap: 8px;
+    margin: 16px 8px;
+  }
+}
+
+.image17 {
+  margin: 2px 0;
+  width: 40px;
+  object-fit: cover;
+}
+
+.flex_col {
+  display: flex;
+  flex-direction: column;
+  gap: 4px 0;
+  width: 125px;
+  min-width: 0;
+}
+
+.text1 {
+  font: 500 14px/1.42 "Public Sans", Helvetica, Arial, serif;
+  color: rgb(25 28 31);
+  text-transform: uppercase;
+}
+
+.text2 {
+  margin: 0 18px 0 0;
+  font: 400 14px/1.42 "Public Sans", Helvetica, Arial, serif;
+  color: rgb(95 108 114);
+
+  @include xs {
+    margin: 0 16px 0 0;
+  }
+
+  @include tn {
+    margin: 0 8px 0 0;
+  }
+}
+
+.color12 {
+  width: 1px;
+  height: 56px;
+  min-height: 56px;
+  background-color: rgb(228 231 233);
+}
+
+.flex_row2 {
+  display: flex;
+  gap: 0 16px;
+  margin: 16px;
+
+  @include md {
+    margin: 16px auto;
+  }
+
+  @include tn {
+    column-gap: 8px;
+  }
+}
+
+.flex_col1 {
+  display: flex;
+  flex-direction: column;
+  gap: 4px 0;
+  width: 191px;
+  min-width: 0;
+}
+
+.text21 {
+  font: 400 14px/1.42 "Public Sans", Helvetica, Arial, serif;
+  color: rgb(95 108 114);
+  letter-spacing: -0.2px;
+}
+
+.flex_row3 {
+  display: flex;
+  gap: 0 16px;
+  margin: 16px;
+
+  @include xxl {
+    margin: 16px auto;
+  }
+
+  @include tn {
+    column-gap: 8px;
+  }
+}
+
+.flex_col2 {
+  display: flex;
+  flex-direction: column;
+  gap: 4px 0;
+  width: 126px;
+  min-width: 0;
+}
+
+.text22 {
+  margin: 0 4px 0 0;
+  font: 400 14px/1.42 "Public Sans", Helvetica, Arial, serif;
+  color: rgb(95 108 114);
+}
+
+.flex_col3 {
+  display: flex;
+  flex-direction: column;
+  gap: 4px 0;
+  width: 142px;
+  min-width: 0;
+}
+
+.text11 {
+  margin: 0 38px 0 0;
+  font: 500 14px/1.42 "Public Sans", Helvetica, Arial, serif;
+  color: rgb(25 28 31);
+  text-transform: uppercase;
+
+  @include md {
+    margin: 0 32px 0 0;
+  }
+
+  @include xs {
+    margin: 0 16px 0 0;
+  }
+
+  @include tn {
+    margin: 0 8px 0 0;
+  }
+}
+
+.text23 {
+  font: 400 14px/1.42 "Public Sans", Helvetica, Arial, serif;
+  color: rgb(95 108 114);
+}

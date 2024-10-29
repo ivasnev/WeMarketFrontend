@@ -1,0 +1,23 @@
+
+image: node
+
+before_script:
+  - npm install
+
+cache:
+  paths:
+    - node_modules/
+
+pages:
+  stage: deploy
+  script:
+    - unset CI
+    - BASE_PATH=67201827f4a71100087b0b87/ npm run build
+    - mv public public2
+    - mv build public
+  artifacts:
+    paths:
+      - public
+  only:
+    - master
+  

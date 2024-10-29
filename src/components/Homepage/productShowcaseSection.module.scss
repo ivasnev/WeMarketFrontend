@@ -1,0 +1,140 @@
+@use "../utils" as *;
+@use "../global" as *;
+
+.productShowcaseSection {
+  display: flex;
+  flex-direction: column;
+}
+
+.productShowcase {
+  display: flex;
+  gap: 0 24px;
+  margin: 40px auto 72px;
+  width: 1320.0001220703125px;
+  max-width: 85%;
+
+  @include xxl {
+    flex-direction: column;
+    align-items: center;
+    gap: 30px 24px;
+  }
+
+  @include tn {
+    margin: 40px auto 50px;
+  }
+}
+
+.flex_col {
+  display: flex;
+  flex-direction: column;
+  gap: 16px 0;
+  width: 312px;
+  min-width: 0;
+
+  @include xxl {
+    width: 100%;
+    min-width: unset;
+  }
+}
+
+.highlight1 {
+  z-index: 1;
+  font: 600 16px/1.5 "Public Sans", Helvetica, Arial, serif;
+  color: rgb(25 28 31);
+}
+
+.flex_col1 {
+  display: flex;
+  flex-direction: column;
+  gap: 16px 0;
+}
+
+.contentBox1 {
+  display: flex;
+  flex-direction: column;
+  background-color: rgb(255 255 255);
+  border-radius: 3px;
+  outline: 1px solid rgb(228 231 233);
+  outline-offset: -1px;
+}
+
+.unnamed {
+  display: flex;
+  align-items: center;
+  gap: 0 12px;
+  margin: 12px;
+
+  @include sm {
+    margin: 12px auto;
+  }
+
+  @include tn {
+    column-gap: 8px;
+  }
+}
+
+.image33 {
+  width: 80px;
+  min-width: 0;
+  object-fit: cover;
+}
+
+.unnamed1 {
+  display: flex;
+  flex-direction: column;
+  gap: 8px 0;
+  width: 196px;
+  min-width: 0;
+}
+
+.paragraph {
+  font: 400 14px/1.42 "Public Sans", Helvetica, Arial, serif;
+  color: rgb(25 28 31);
+}
+
+.text3 {
+  display: flex;
+  flex-direction: column;
+  width: 53.99305725097656px;
+  max-width: 85%;
+}
+
+.text31 {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  height: 20px;
+  font: 600 14px/1.42 "Public Sans", Helvetica, Arial, serif;
+  color: rgb(0 105 51);
+  text-align: center;
+}
+
+.unnamed2 {
+  display: flex;
+  align-items: center;
+  gap: 0 12px;
+  margin: 12px;
+
+  @include xl {
+    margin: 12px auto;
+  }
+
+  @include tn {
+    column-gap: 8px;
+  }
+}
+
+.unnamed3 {
+  display: flex;
+  align-items: center;
+  gap: 0 12px;
+  margin: 12px;
+
+  @include xxl {
+    margin: 12px auto;
+  }
+
+  @include tn {
+    column-gap: 8px;
+  }
+}

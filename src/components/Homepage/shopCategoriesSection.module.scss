@@ -1,0 +1,109 @@
+@use "../utils" as *;
+@use "../global" as *;
+
+.shopCategoriesSection {
+  display: flex;
+  flex-direction: column;
+}
+
+.flex_col {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 40px 0;
+  margin: 37px auto 32px;
+  width: 1320.0001220703125px;
+  max-width: 85%;
+}
+
+.title1 {
+  display: flex;
+  justify-content: center;
+  font: 600 32px/1.25 "Public Sans", Helvetica, Arial, serif;
+  color: rgb(25 28 31);
+  text-align: center;
+
+  @include md {
+    align-items: flex-start;
+    font-size: 30px;
+  }
+
+  @include xxs {
+    font-size: 26px;
+  }
+}
+
+.group {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.categoryGrid {
+  position: relative;
+  display: flex;
+  gap: 0 18px;
+
+  @include lg {
+    flex-direction: column;
+    align-items: center;
+    gap: 30px 18px;
+  }
+}
+
+.contentBox {
+  display: flex;
+  flex-direction: column;
+  width: 205px;
+  min-width: 0;
+  background-color: rgb(255 255 255);
+  border-radius: 4px;
+  outline: 1px solid rgb(228 231 233);
+  outline-offset: -1px;
+}
+
+.unnamed {
+  display: flex;
+  flex-direction: column;
+  gap: 16px 0;
+  margin: 24px 28px 24px 29px;
+
+  @include xs {
+    margin: 24px 16px;
+  }
+
+  @include tn {
+    margin: 24px auto;
+  }
+}
+
+.image29 {
+  width: 100%;
+  object-fit: cover;
+}
+
+.highlight {
+  display: flex;
+  justify-content: center;
+  margin: 0 1.5px 0 0.5px;
+  font: 500 16px/1.5 "Public Sans", Helvetica, Arial, serif;
+  color: rgb(25 28 31);
+  text-align: center;
+}
+
+.image30 {
+  position: absolute;
+  top: 91.9964599609375px;
+  left: -23.9930419921875px;
+  width: 47.99px;
+  border-radius: 24px;
+}
+
+.image301 {
+  position: absolute;
+  top: 91.9964599609375px;
+  right: -23.993072509765625px;
+  width: 47.99px;
+  border-radius: 24px;
+}

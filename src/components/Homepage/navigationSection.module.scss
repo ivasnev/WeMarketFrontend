@@ -1,0 +1,151 @@
+@use "../utils" as *;
+@use "../global" as *;
+
+.navigationSection {
+  display: flex;
+  flex-direction: column;
+}
+
+.block1 {
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+  width: 100%;
+  max-width: 1920.0001220703125px;
+  background-color: rgb(255 255 255);
+  box-shadow: inset 0 -1px 0 0 rgb(228 231 233 / 100%);
+}
+
+.unnamed {
+  display: flex;
+  align-items: center;
+  gap: 0 23px;
+  margin: 16px auto;
+  width: 1320.0001220703125px;
+  max-width: 85%;
+
+  @include md {
+    flex-direction: column;
+    gap: 30px 23px;
+  }
+}
+
+.btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 0 9px;
+  min-width: 155px;
+  background-color: rgb(242 244 245);
+  border-radius: 2px;
+  padding: 14px 24px;
+
+  @include md {
+    width: 100%;
+    min-width: unset;
+  }
+}
+
+.btn_text {
+  min-width: 0;
+  font: 500 14px/1.42 "Public Sans", Helvetica, Arial, serif;
+  color: rgb(25 28 31);
+}
+
+.btn_icon {
+  margin: 2px 0;
+  width: 16px;
+  min-width: 0;
+}
+
+.unnamed1 {
+  display: flex;
+  gap: 0 6px;
+  width: 107px;
+  min-width: 0;
+
+  @include md {
+    width: 100%;
+    min-width: unset;
+  }
+}
+
+.image9 {
+  width: 24px;
+  object-fit: cover;
+}
+
+.text2 {
+  margin: 2px 0;
+  font: 400 14px/1.42 "Public Sans", Helvetica, Arial, serif;
+  color: rgb(95 108 114);
+}
+
+.unnamed2 {
+  display: flex;
+  gap: 0 6px;
+  width: 89px;
+  min-width: 0;
+
+  @include md {
+    width: 100%;
+    min-width: unset;
+  }
+}
+
+.image91 {
+  width: 24px;
+  object-fit: cover;
+}
+
+.text21 {
+  margin: 2px 0;
+  font: 400 14px/1.42 "Public Sans", Helvetica, Arial, serif;
+  color: rgb(95 108 114);
+}
+
+.unnamed3 {
+  display: flex;
+  gap: 0 6px;
+  width: 150px;
+  min-width: 0;
+
+  @include md {
+    width: 100%;
+    min-width: unset;
+  }
+}
+
+.image92 {
+  width: 24px;
+  object-fit: cover;
+}
+
+.text22 {
+  margin: 2px 0;
+  font: 400 14px/1.42 "Public Sans", Helvetica, Arial, serif;
+  color: rgb(95 108 114);
+}
+
+.unnamed4 {
+  display: flex;
+  gap: 0 6px;
+  width: 100px;
+  min-width: 0;
+
+  @include md {
+    width: 100%;
+    min-width: unset;
+  }
+}
+
+.image93 {
+  width: 24px;
+  object-fit: cover;
+}
+
+.text23 {
+  margin: 2px 0;
+  font: 400 14px/1.42 "Public Sans", Helvetica, Arial, serif;
+  color: rgb(95 108 114);
+}

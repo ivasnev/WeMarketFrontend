@@ -1,0 +1,385 @@
+@use "../utils" as *;
+@use "../global" as *;
+
+.footerSection {
+  display: flex;
+  flex-direction: column;
+}
+
+.wrapper22 {
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+  width: 100%;
+  max-width: 1920.0001220703125px;
+  background-color: rgb(25 28 31);
+}
+
+.unnamed {
+  display: flex;
+  justify-content: space-between;
+  gap: 0 10px;
+  margin: 72px auto;
+  width: 1320.0001220703125px;
+  max-width: 85%;
+
+  @include md {
+    flex-direction: column;
+    align-items: center;
+    gap: 30px 10px;
+  }
+
+  @include tn {
+    margin: 50px auto;
+  }
+}
+
+.unnamed1 {
+  display: flex;
+  flex-direction: column;
+  margin: 0 0 52px;
+  width: 248px;
+  min-width: 0;
+
+  @include md {
+    margin: 0;
+    width: 100%;
+    min-width: unset;
+  }
+}
+
+.wrapper23 {
+  display: flex;
+  flex-direction: column;
+  width: 152.98611450195312px;
+  max-width: 85%;
+}
+
+.wrapper231 {
+  margin: 0 1px 0 0;
+  width: 99.35%;
+  height: 40px;
+  font: 700 32px/1.25 "Public Sans", Helvetica, Arial, serif;
+  color: rgb(255 255 255);
+  letter-spacing: -0.64px;
+
+  @include md {
+    align-items: flex-start;
+    font-size: 30px;
+  }
+
+  @include xxs {
+    font-size: 26px;
+  }
+}
+
+.text {
+  margin: 24px 0 0;
+  font: 400 14px/1.42 "Public Sans", Helvetica, Arial, serif;
+  color: rgb(119 135 143);
+}
+
+.highlight4 {
+  margin: 4px 0 0;
+  font: 500 18px/1.33 "Public Sans", Helvetica, Arial, serif;
+  color: rgb(255 255 255);
+
+  @include md {
+    align-items: flex-start;
+    font-size: 16px;
+  }
+}
+
+.highlight5 {
+  margin: 12px 0 0;
+  font: 400 16px/1.5 "Public Sans", Helvetica, Arial, serif;
+  color: rgb(173 183 188);
+}
+
+.highlight6 {
+  margin: 12px 0 0;
+  font: 500 16px/1.5 "Public Sans", Helvetica, Arial, serif;
+  color: rgb(255 255 255);
+}
+
+.unnamed2 {
+  display: flex;
+  flex-direction: column;
+  gap: 12px 0;
+  width: 154px;
+  min-width: 0;
+
+  @include md {
+    width: 100%;
+    min-width: unset;
+  }
+}
+
+.unnamed3 {
+  display: flex;
+  flex-direction: column;
+  gap: 18px 0;
+  margin: 0 26px 0 0;
+
+  @include xs {
+    margin: 0 16px 0 0;
+  }
+
+  @include tn {
+    margin: 0 8px 0 0;
+  }
+}
+
+.highlight61 {
+  margin: 0 7px 0 0;
+  font: 500 16px/1.5 "Public Sans", Helvetica, Arial, serif;
+  color: rgb(255 255 255);
+  text-transform: uppercase;
+}
+
+.unnamed4 {
+  display: flex;
+  flex-direction: column;
+  gap: 12px 0;
+}
+
+.text6 {
+  font: 500 14px/1.42 "Public Sans", Helvetica, Arial, serif;
+  color: rgb(146 159 165);
+}
+
+.text61 {
+  font: 500 14px/1.42 "Public Sans", Helvetica, Arial, serif;
+  color: rgb(146 159 165);
+}
+
+.text62 {
+  font: 500 14px/1.42 "Public Sans", Helvetica, Arial, serif;
+  color: rgb(146 159 165);
+}
+
+.unnamed5 {
+  display: flex;
+  gap: 0 8px;
+}
+
+.line2 {
+  margin: 8px 0 10px;
+  width: 24px;
+  height: 2px;
+  min-height: 2px;
+  background-color: rgb(235 200 12);
+  border-radius: 1px;
+}
+
+.text7 {
+  font: 500 14px/1.42 "Public Sans", Helvetica, Arial, serif;
+  color: rgb(255 255 255);
+}
+
+.unnamed6 {
+  display: flex;
+  flex-direction: column;
+}
+
+.text63 {
+  font: 500 14px/1.42 "Public Sans", Helvetica, Arial, serif;
+  color: rgb(146 159 165);
+}
+
+.text64 {
+  margin: 12px 0 0;
+  font: 500 14px/1.42 "Public Sans", Helvetica, Arial, serif;
+  color: rgb(146 159 165);
+}
+
+.btn {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 0 8px;
+  margin: 6px 0 0;
+  background-color: rgb(25 28 31);
+  padding: 6px 0;
+}
+
+.btn_text {
+  min-width: 0;
+  font: 500 14px/1.42 "Public Sans", Helvetica, Arial, serif;
+  color: rgb(235 200 12);
+}
+
+.btn_icon {
+  width: 20px;
+  min-width: 0;
+}
+
+.unnamed7 {
+  display: flex;
+  flex-direction: column;
+  gap: 18px 0;
+  margin: 0 0 6px;
+  width: 102px;
+  min-width: 0;
+
+  @include md {
+    margin: 0;
+    width: 100%;
+    min-width: unset;
+  }
+}
+
+.highlight62 {
+  font: 500 16px/1.5 "Public Sans", Helvetica, Arial, serif;
+  color: rgb(255 255 255);
+  text-transform: uppercase;
+}
+
+.unnamed8 {
+  display: flex;
+  flex-direction: column;
+  gap: 12px 0;
+  margin: 0 3px 0 0;
+}
+
+.text65 {
+  margin: 0 9px 0 0;
+  font: 500 14px/1.42 "Public Sans", Helvetica, Arial, serif;
+  color: rgb(146 159 165);
+
+  @include tn {
+    margin: 0 8px 0 0;
+  }
+}
+
+.text66 {
+  margin: 0 12px 0 0;
+  font: 500 14px/1.42 "Public Sans", Helvetica, Arial, serif;
+  color: rgb(146 159 165);
+
+  @include tn {
+    margin: 0 8px 0 0;
+  }
+}
+
+.text67 {
+  font: 500 14px/1.42 "Public Sans", Helvetica, Arial, serif;
+  color: rgb(146 159 165);
+}
+
+.text68 {
+  margin: 0 39px 0 0;
+  font: 500 14px/1.42 "Public Sans", Helvetica, Arial, serif;
+  color: rgb(146 159 165);
+
+  @include md {
+    margin: 0 32px 0 0;
+  }
+
+  @include xs {
+    margin: 0 16px 0 0;
+  }
+
+  @include tn {
+    margin: 0 8px 0 0;
+  }
+}
+
+.text69 {
+  margin: 0 21px 0 0;
+  font: 500 14px/1.42 "Public Sans", Helvetica, Arial, serif;
+  color: rgb(146 159 165);
+
+  @include xs {
+    margin: 0 16px 0 0;
+  }
+
+  @include tn {
+    margin: 0 8px 0 0;
+  }
+}
+
+.text610 {
+  font: 500 14px/1.42 "Public Sans", Helvetica, Arial, serif;
+  color: rgb(146 159 165);
+}
+
+.text611 {
+  margin: 0 38px 0 0;
+  font: 500 14px/1.42 "Public Sans", Helvetica, Arial, serif;
+  color: rgb(146 159 165);
+
+  @include md {
+    margin: 0 32px 0 0;
+  }
+
+  @include xs {
+    margin: 0 16px 0 0;
+  }
+
+  @include tn {
+    margin: 0 8px 0 0;
+  }
+}
+
+.unnamed9 {
+  display: flex;
+  flex-direction: column;
+  gap: 18px 0;
+  margin: 0 0 66px;
+  width: 312px;
+  min-width: 0;
+
+  @include md {
+    margin: 0;
+    width: 100%;
+    min-width: unset;
+  }
+}
+
+.highlight63 {
+  font: 500 16px/1.5 "Public Sans", Helvetica, Arial, serif;
+  color: rgb(255 255 255);
+  text-transform: uppercase;
+}
+
+.list {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: start;
+  align-content: flex-start;
+  gap: 16px;
+
+  @include tn {
+    column-gap: 8px;
+  }
+}
+
+.unnamed10 {
+  display: flex;
+  flex-direction: column;
+  flex: 0 0 auto;
+  width: 63px;
+  min-width: 0;
+}
+
+.btn1 {
+  display: flex;
+  justify-content: center;
+  font: 500 14px/1.42 "Public Sans", Helvetica, Arial, serif;
+  color: rgb(255 255 255);
+  text-align: center;
+  border-radius: 2px;
+  padding: 6px 12px;
+  outline: 1px solid rgb(48 54 57);
+  outline-offset: -1px;
+}
+
+.unnamed11 {
+  display: flex;
+  flex-direction: column;
+  flex: 0 0 auto;
+  margin: 0 6px 0 0;
+  width: 63px;
+  min-width: 0;
+}
