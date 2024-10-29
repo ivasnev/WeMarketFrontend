@@ -1,0 +1,52 @@
+@use "../utils" as *;
+@use "../global" as *;
+
+.contentWrapper {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--color);
+  border-radius: 3px;
+  outline: 1px solid rgb(228 231 233);
+  outline-offset: -1px;
+}
+
+.mediaContainer {
+  display: flex;
+  align-items: center;
+  gap: 0 12px;
+  margin: 12px;
+}
+
+.featureImg {
+  width: 80px;
+  min-width: 0;
+}
+
+.textContainer {
+  display: flex;
+  flex-direction: column;
+  gap: 8px 0;
+  width: 196px;
+  min-width: 0;
+}
+
+.description {
+  font: 400 14px/1.42 "Public Sans", Helvetica, Arial, serif;
+  color: rgb(25 28 31);
+}
+
+.highlightBox {
+  display: flex;
+  flex-direction: column;
+  width: 54px;
+}
+
+.highlightText {
+  display: flex;
+  justify-content: center;
+  width: 54px;
+  height: 20px;
+  font: 600 14px/1.42 "Public Sans", Helvetica, Arial, serif;
+  color: rgb(0 105 51);
+  text-align: center;
+}

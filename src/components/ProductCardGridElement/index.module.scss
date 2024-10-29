@@ -1,0 +1,55 @@
+@use "../utils" as *;
+@use "../global" as *;
+
+.profileContainer {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--color);
+  border-radius: 3px;
+  outline: 1px solid rgb(228 231 233);
+  outline-offset: -1px;
+}
+
+.mediaWrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 24px 0;
+  margin: 16px;
+}
+
+.avatarImg {
+  width: 100%;
+}
+
+.bioContent {
+  display: flex;
+  flex-direction: column;
+  gap: 8px 0;
+}
+
+.statusWrapper {
+  display: flex;
+  gap: 0 4px;
+}
+
+.statusIcon {
+  width: 80px;
+  min-width: 0;
+}
+
+.statusMsg {
+  min-width: 0;
+  font: 400 12px/1.33 "Public Sans", Helvetica, Arial, serif;
+  color: rgb(119 135 143);
+}
+
+.userBio {
+  font: 400 14px/1.42 "Public Sans", Helvetica, Arial, serif;
+  color: rgb(25 28 31);
+  letter-spacing: -0.1px;
+}
+
+.userStatus {
+  font: 600 14px/1.42 "Public Sans", Helvetica, Arial, serif;
+  color: rgb(0 105 51);
+}

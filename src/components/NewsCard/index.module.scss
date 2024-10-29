@@ -1,0 +1,113 @@
+@use "../utils" as *;
+@use "../global" as *;
+
+.featureBox {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--color);
+  border-radius: 4px;
+  outline: 1px solid rgb(228 231 233);
+  outline-offset: -1px;
+  box-shadow: 0 8px 24px 0 rgb(0 0 0 / 4%);
+}
+
+.contentWrapper {
+  display: flex;
+  flex-direction: column;
+  margin: 32px;
+}
+
+.heroImg {
+  width: 100%;
+  border-radius: 3px;
+}
+
+.benefitsContainer {
+  display: flex;
+  flex-direction: column;
+  margin: 24px 0 0;
+}
+
+.benefitsList {
+  display: flex;
+  gap: 0 16px;
+}
+
+.benefitItem {
+  display: flex;
+  gap: 0 6px;
+  width: 73px;
+  min-width: 0;
+}
+
+.benefitIcon {
+  width: 24px;
+  min-width: 0;
+}
+
+.benefitDesc {
+  margin: 2px 0;
+  min-width: 0;
+  font: 400 14px/1.42 "Public Sans", Helvetica, Arial, serif;
+  color: rgb(71 81 86);
+}
+
+.benefitItem1 {
+  display: flex;
+  gap: 0 6px;
+  width: 108px;
+  min-width: 0;
+}
+
+.benefitDesc1 {
+  margin: 2px 0;
+  min-width: 0;
+  font: 400 14px/1.42 "Public Sans", Helvetica, Arial, serif;
+  color: rgb(71 81 86);
+  letter-spacing: -1.3px;
+}
+
+.benefitItem2 {
+  display: flex;
+  gap: 0 6px;
+  width: 60px;
+  min-width: 0;
+}
+
+.subHeading {
+  margin: 8px 0 0;
+  font: 500 18px/1.33 "Public Sans", Helvetica, Arial, serif;
+  color: rgb(25 28 31);
+}
+
+.description {
+  margin: 12px 0 0;
+  font: 400 16px/1.5 "Public Sans", Helvetica, Arial, serif;
+  color: rgb(119 135 143);
+}
+
+.ctaBtn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 0 8px;
+  margin: 23px 0 0;
+  width: 162px;
+  max-width: 100%;
+  background-color: var(--color);
+  border-radius: 20px;
+  padding: 0 24px;
+}
+
+.ctaText {
+  min-width: 0;
+  font: 700 14px/3.42 "Public Sans", Helvetica, Arial, serif;
+  color: rgb(0 0 0);
+  text-transform: uppercase;
+  letter-spacing: 0.17px;
+}
+
+.ctaIcon {
+  width: 20px;
+  min-width: 0;
+}

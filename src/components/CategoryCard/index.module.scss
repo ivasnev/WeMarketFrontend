@@ -1,0 +1,31 @@
+@use "../utils" as *;
+@use "../global" as *;
+
+.featureCard {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--color);
+  border-radius: 4px;
+  outline: 1px solid rgb(228 231 233);
+  outline-offset: -1px;
+}
+
+.featureWrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 16px 0;
+  margin: 24px 28px 24px 29px;
+}
+
+.featureImg {
+  width: 100%;
+}
+
+.featureText {
+  display: flex;
+  justify-content: center;
+  margin: 0 1.5px 0 0.5px;
+  font: 500 16px/1.5 "Public Sans", Helvetica, Arial, serif;
+  color: rgb(25 28 31);
+  text-align: center;
+}
