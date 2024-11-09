@@ -1,8 +1,105 @@
-import React from 'react';
+import React, { useState } from 'react';
+import Slider, { Range } from 'rc-slider';
+import 'rc-slider/assets/index.css';
 
 import productSectionStyles from './productSection.module.scss';
 
-function renderProductSection(props) {
+const categories = [
+  { id: 1, name: "Electronics Devices", icon: "/assets/1c144461a9210e6fd925efe40b1266f4.svg" },
+  { id: 2, name: "Computer & Laptop" },
+  { id: 3, name: "Computer Accessories" },
+  { id: 4, name: "SmartPhone" },
+  { id: 5, name: "Headphone" },
+];
+
+
+const priceRanges = [
+  { label: "All Price", range: [0, 10000] },
+  { label: "Under $20", range: [0, 20] },
+  { label: "$25 to $100", range: [25, 100] },
+  { label: "$100 to $300", range: [100, 300] },
+  { label: "$300 to $500", range: [300, 500] },
+  { label: "$500 to $1,000", range: [500, 1000] },
+  { label: "$1,000 to $10,000", range: [1000, 10000] },
+];
+
+function PriceRangeFilter() {
+  const [priceRange, setPriceRange] = useState([0, 10000]);
+
+  const handleSliderChange = (value) => {
+    setPriceRange(value);
+  };
+
+  const handleRadioChange = (range) => {
+    setPriceRange(range);
+  };
+
+  return (
+      <div className={productSectionStyles.priceFilterGroup}>
+        <p className={productSectionStyles.highlight}>Price Range</p>
+
+        <Slider
+            range
+            min={0}
+            max={10000}
+            value={priceRange}  // Using value instead of defaultValue for controlled slider
+            onChange={handleSliderChange}
+            trackStyle={{ backgroundColor: 'yellow', height: 4 }}
+            handleStyle={{ borderColor: 'yellow', height: 24, width: 24 }}
+            railStyle={{ backgroundColor: '#ddd', height: 4 }}
+        />
+
+        <div className={productSectionStyles.flex_row}>
+          <div className={productSectionStyles.content_box4}>
+            <div className={productSectionStyles.text5}>Min price: ${priceRange[0]}</div>
+          </div>
+          <div className={productSectionStyles.content_box4}>
+            <div className={productSectionStyles.text51}>Max price: ${priceRange[1]}</div>
+          </div>
+        </div>
+
+        <div className={productSectionStyles.flex_col2}>
+          {priceRanges.map((range, index) => (
+              <label key={index} className={productSectionStyles.unnamed}>
+                <input
+                    type="radio"
+                    name="priceRange"
+                    checked={priceRange[0] === range.range[0] && priceRange[1] === range.range[1]}
+                    onChange={() => handleRadioChange(range.range)}
+                />
+                <span className={productSectionStyles.text4}>{range.label}</span>
+              </label>
+          ))}
+        </div>
+      </div>
+  );
+}
+
+function CategoryFilter({ selectedCategory, setSelectedCategory }) {
+  return (
+      <div className={productSectionStyles.categoryFilterGroup}>
+        <p className={productSectionStyles.filterTitle}>Category</p>
+        <div className={productSectionStyles.flex_col}>
+          {categories.map((category) => (
+              <label key={category.id} className={productSectionStyles.unnamed}>
+                <input
+                    type="radio"
+                    name="category"
+                    value={category.id}
+                    checked={selectedCategory === category.id}
+                    onChange={() => setSelectedCategory(category.id)}
+                />
+                <span className={productSectionStyles.text4}>{category.name}</span>
+              </label>
+          ))}
+        </div>
+      </div>
+  );
+}
+
+function ProductSection(props) {
+  const [selectedCategory, setSelectedCategory] = useState(null);
+
   return (
     <section className={productSectionStyles.productSection}>
       {/* Main product listing area */}
@@ -11,103 +108,18 @@ function renderProductSection(props) {
         <aside className={productSectionStyles.filterSidebar}>
           {/* Product filters sidebar */}
 
-          <div className={productSectionStyles.categoryFilterGroup}>
-            <p className={productSectionStyles.filterTitle}>Category</p>
+          <aside className={productSectionStyles.filterSidebar}>
+            <CategoryFilter
+                selectedCategory={selectedCategory}
+                setSelectedCategory={setSelectedCategory}
+            />
+          </aside>
 
-            <div className={productSectionStyles.flex_col}>
-              <div className={productSectionStyles.unnamed}>
-                <img
-                  className={productSectionStyles.image20}
-                  src={'/assets/1c144461a9210e6fd925efe40b1266f4.svg'}
-                  alt="alt text"
-                />
-                <div className={productSectionStyles.text1}>Electronics Devices</div>
-              </div>
+          <hr className={productSectionStyles.line} size={1}/>
 
-              <div className={productSectionStyles.unnamed}>
-                <div className={productSectionStyles.color12} />
-                <div className={productSectionStyles.text4}>{`Computer & Laptop`}</div>
-              </div>
+          <PriceRangeFilter />
 
-              <div className={productSectionStyles.unnamed}>
-                <div className={productSectionStyles.color12} />
-                <div className={productSectionStyles.text4}>Computer Accessories</div>
-              </div>
-
-              <div className={productSectionStyles.unnamed}>
-                <div className={productSectionStyles.color12} />
-                <div className={productSectionStyles.text4}>SmartPhone</div>
-              </div>
-
-              <div className={productSectionStyles.unnamed}>
-                <div className={productSectionStyles.color12} />
-                <div className={productSectionStyles.text4}>Headphone</div>
-              </div>
-            </div>
-          </div>
-
-          <hr className={productSectionStyles.line} size={1} />
-
-          <div className={productSectionStyles.priceFilterGroup}>
-            <p className={productSectionStyles.highlight}>Price Range</p>
-
-            <div className={productSectionStyles.flex_col1}>
-              <img
-                className={productSectionStyles.image21}
-                src={'/assets/c721919b6abee25a6f9b3c7b14129f7a.svg'}
-                alt="alt text"
-              />
-
-              <div className={productSectionStyles.flex_row}>
-                <div className={productSectionStyles.content_box4}>
-                  <div className={productSectionStyles.text5}>Min price</div>
-                </div>
-
-                <div className={productSectionStyles.content_box4}>
-                  <div className={productSectionStyles.text51}>Max price</div>
-                </div>
-              </div>
-            </div>
-
-            <div className={productSectionStyles.flex_col2}>
-              <div className={productSectionStyles.unnamed}>
-                <div className={productSectionStyles.color12} />
-                <div className={productSectionStyles.text4}>All Price</div>
-              </div>
-
-              <div className={productSectionStyles.unnamed}>
-                <div className={productSectionStyles.color12} />
-                <div className={productSectionStyles.text4}>Under $20</div>
-              </div>
-
-              <div className={productSectionStyles.unnamed}>
-                <div className={productSectionStyles.color12} />
-                <div className={productSectionStyles.text4}>$25 to $100</div>
-              </div>
-
-              <div className={productSectionStyles.unnamed}>
-                <div className={productSectionStyles.color12} />
-                <div className={productSectionStyles.text4}>$100 to $300</div>
-              </div>
-
-              <div className={productSectionStyles.unnamed}>
-                <div className={productSectionStyles.color12} />
-                <div className={productSectionStyles.text4}>$300 to $500</div>
-              </div>
-
-              <div className={productSectionStyles.unnamed}>
-                <div className={productSectionStyles.color12} />
-                <div className={productSectionStyles.text4}>$500 to $1,000</div>
-              </div>
-
-              <div className={productSectionStyles.unnamed}>
-                <div className={productSectionStyles.color12} />
-                <div className={productSectionStyles.text4}>$1,000 to $10,000</div>
-              </div>
-            </div>
-          </div>
-
-          <hr className={productSectionStyles.line1} size={1} />
+          <hr className={productSectionStyles.line1} size={1}/>
 
           <div className={productSectionStyles.brandFilterGroup}>
             <p className={productSectionStyles.highlight}>popular Brands</p>
@@ -117,70 +129,70 @@ function renderProductSection(props) {
 
               <div className={productSectionStyles.unnamed1}>
                 <img
-                  className={productSectionStyles.image22}
-                  src={'/assets/6d79c54ae2cd1b08bc46445ff2653074.svg'}
-                  alt="alt text"
+                    className={productSectionStyles.image22}
+                    src={'/assets/6d79c54ae2cd1b08bc46445ff2653074.svg'}
+                    alt="alt text"
                 />
                 <div className={productSectionStyles.text4}>Apple</div>
               </div>
 
               <div className={productSectionStyles.unnamed2}>
                 <img
-                  className={productSectionStyles.image22}
-                  src={'/assets/6d79c54ae2cd1b08bc46445ff2653074.svg'}
-                  alt="alt text"
+                    className={productSectionStyles.image22}
+                    src={'/assets/6d79c54ae2cd1b08bc46445ff2653074.svg'}
+                    alt="alt text"
                 />
                 <div className={productSectionStyles.text4}>Google</div>
               </div>
 
               <div className={productSectionStyles.unnamed3}>
                 <img
-                  className={productSectionStyles.image22}
-                  src={'/assets/6d79c54ae2cd1b08bc46445ff2653074.svg'}
-                  alt="alt text"
+                    className={productSectionStyles.image22}
+                    src={'/assets/6d79c54ae2cd1b08bc46445ff2653074.svg'}
+                    alt="alt text"
                 />
                 <div className={productSectionStyles.text4}>Microsoft</div>
               </div>
 
               <div className={productSectionStyles.unnamed3}>
-                <div className={productSectionStyles.color17} />
+                <div className={productSectionStyles.color17}/>
                 <div className={productSectionStyles.text4}>Samsung</div>
               </div>
 
               <div className={productSectionStyles.unnamed3}>
-                <div className={productSectionStyles.color17} />
+                <div className={productSectionStyles.color17}/>
                 <div className={productSectionStyles.text4}>Dell</div>
               </div>
 
               <div className={productSectionStyles.unnamed4}>
                 <img
-                  className={productSectionStyles.image22}
-                  src={'/assets/6d79c54ae2cd1b08bc46445ff2653074.svg'}
-                  alt="alt text"
+                    className={productSectionStyles.image22}
+                    src={'/assets/6d79c54ae2cd1b08bc46445ff2653074.svg'}
+                    alt="alt text"
                 />
                 <div className={productSectionStyles.text4}>HP</div>
               </div>
 
               <div className={productSectionStyles.unnamed3}>
-                <div className={productSectionStyles.color17} />
+                <div className={productSectionStyles.color17}/>
                 <div className={productSectionStyles.text4}>Symphony</div>
               </div>
 
               <div className={productSectionStyles.unnamed3}>
-                <div className={productSectionStyles.color17} />
+                <div className={productSectionStyles.color17}/>
                 <div className={productSectionStyles.text4}>Xiaomi</div>
               </div>
             </div>
           </div>
 
-          <hr className={productSectionStyles.line2} size={1} />
+          <hr className={productSectionStyles.line2} size={1}/>
 
           <div className={productSectionStyles.tagFilterGroup}>
             <p className={productSectionStyles.highlight1}>Popular Tag</p>
 
             <div className={productSectionStyles.list}>
               <div className={productSectionStyles.component14}>
-                <div className={productSectionStyles.color18} />
+                <div className={productSectionStyles.color18}/>
                 <div className={productSectionStyles.text11}>Game</div>
               </div>
 
@@ -197,17 +209,17 @@ function renderProductSection(props) {
               </div>
 
               <div className={productSectionStyles.component17}>
-                <div className={productSectionStyles.color22} />
+                <div className={productSectionStyles.color22}/>
                 <div className={productSectionStyles.text14}>Macbook</div>
               </div>
 
               <div className={productSectionStyles.component141}>
-                <div className={productSectionStyles.color18} />
+                <div className={productSectionStyles.color18}/>
                 <div className={productSectionStyles.text11}>SSD</div>
               </div>
 
               <div className={productSectionStyles.component15}>
-                <div className={productSectionStyles.color24} />
+                <div className={productSectionStyles.color24}/>
                 <div className={productSectionStyles.text6}>Graphics Card</div>
               </div>
             </div>
@@ -223,9 +235,9 @@ function renderProductSection(props) {
                 <div className={productSectionStyles.flex_row2}>
                   <div className={productSectionStyles.text}>Search for anything...</div>
                   <img
-                    className={productSectionStyles.image}
-                    src={'/assets/38dd0c027b8f2f5b43f08b077f691267.svg'}
-                    alt="alt text"
+                      className={productSectionStyles.image}
+                      src={'/assets/38dd0c027b8f2f5b43f08b077f691267.svg'}
+                      alt="alt text"
                   />
                 </div>
               </div>
@@ -383,4 +395,4 @@ function renderProductSection(props) {
   );
 }
 
-export default renderProductSection;
+export default ProductSection;

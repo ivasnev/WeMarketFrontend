@@ -62,7 +62,7 @@
   display: flex;
   align-items: center;
   gap: 0 12px;
-  margin: 12px;
+  margin: 12px auto;
 
   @include sm {
     margin: 12px auto;
@@ -113,7 +113,7 @@
   display: flex;
   align-items: center;
   gap: 0 12px;
-  margin: 12px;
+  margin: 12px auto;
 
   @include xl {
     margin: 12px auto;
@@ -128,7 +128,7 @@
   display: flex;
   align-items: center;
   gap: 0 12px;
-  margin: 12px;
+  margin: 12px auto;
 
   @include xxl {
     margin: 12px auto;

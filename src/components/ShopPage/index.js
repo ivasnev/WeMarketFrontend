@@ -5,7 +5,7 @@ import cn from 'classnames';
 import renderHeaderSection from './headerSection';
 import renderToolbarSection from './toolbarSection';
 import renderBreadcrumbNav from './breadcrumbNav';
-import renderProductSection from './productSection';
+import ProductSection from './productSection';
 import renderFooterSection from './footerSection';
 
 import styles from './index.module.scss';
@@ -17,7 +17,7 @@ function ShopPage(props) {
       {renderHeaderSection(props)}
       {renderToolbarSection(props)}
       {renderBreadcrumbNav(props)}
-      {renderProductSection(props)}
+      {ProductSection(props)}
       {renderFooterSection(props)}
     </main>
   );
