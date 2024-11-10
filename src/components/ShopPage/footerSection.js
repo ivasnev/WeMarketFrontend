@@ -68,15 +68,15 @@ function renderFooterSection(props) {
             </div>
           </div>
 
-          <div className={footerSectionStyles.unnamed9}>
-            <p className={footerSectionStyles.highlight63}>Popular Tag</p>
+          {/*<div className={footerSectionStyles.unnamed9}>*/}
+          {/*  <p className={footerSectionStyles.highlight63}>Popular Tag</p>*/}
 
-            <div className={footerSectionStyles.list}>
-              <div className={footerSectionStyles.unnamed10}>
-                <button className={footerSectionStyles.btn1}>{/* TODO */}</button>
-              </div>
-            </div>
-          </div>
+          {/*  <div className={footerSectionStyles.list}>*/}
+          {/*    <div className={footerSectionStyles.unnamed10}>*/}
+          {/*      <button className={footerSectionStyles.btn1}>/!* TODO *!/</button>*/}
+          {/*    </div>*/}
+          {/*  </div>*/}
+          {/*</div>*/}
         </div>
       </div>
     </section>

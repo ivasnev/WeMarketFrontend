@@ -10,10 +10,10 @@
   display: flex;
   gap: 0 24px;
   margin: 40px auto;
-  width: 1320.0001220703125px;
+  width: 1320px;
   max-width: 85%;
 
-  @include xxl {
+  @include xl {
     flex-direction: column;
     align-items: center;
     gap: 30px 24px;
@@ -29,7 +29,7 @@
 
   @include xxl {
     margin: 0;
-    width: 100%;
+    //width: 100%;
     min-width: unset;
   }
 }
@@ -137,29 +137,6 @@
 
   @include tn {
     column-gap: 8px;
-  }
-}
-
-.content_box4 {
-  display: flex;
-  flex-direction: column;
-  width: 150px;
-  min-width: 0;
-  background-color: rgb(255 255 255);
-  border-radius: 3px;
-  outline: 1px solid rgb(228 231 233);
-  outline-offset: -1px;
-}
-
-.text5 {
-  margin: 8px 0 8px 12px;
-  width: 60.989585876464844px;
-  max-width: 85%;
-  font: 400 14px/1.71 "Public Sans", Helvetica, Arial, serif;
-  color: rgb(119 135 143);
-
-  @include tn {
-    margin: 8px 0 8px 8px;
   }
 }
 
@@ -719,11 +696,11 @@
   grid-template-columns: repeat(4, minmax(0, 1fr));
 
   @include mq-between(xxxl, max) {
-    row-gap: 0;
+    row-gap: 16px;
   }
 
   @include xxxl {
-    row-gap: 0;
+    row-gap: 16px;
   }
 
   @include sm {
@@ -823,7 +800,7 @@
 .paginationBar {
   display: flex;
   gap: 0 20px;
-  width: 399.982666015625px;
+  //width: 399.982666015625px;
   max-width: 85%;
 
   @include xs {
@@ -848,7 +825,7 @@
 .flex_row8 {
   display: flex;
   gap: 0 8px;
-  width: 280px;
+  //width: 280px;
   min-width: 0;
 
   @include xs {
@@ -917,4 +894,96 @@
     width: 100%;
     max-width: 40px;
   }
+}
+
+input[type="radio"]:checked + span::before {
+  border: 2px solid rgb(252, 224, 0); /* желтая обводка для выбранной кнопки */
+}
+
+input[type="radio"]:not(:checked) + span::before {
+  border: 1px solid #ccc; /* серая обводка для невыбранной кнопки */
+}
+
+input[type="radio"] + span::before {
+  content: "";
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  margin-right: 8px;
+  background-color: white;
+  border: 2px solid #ccc;
+}
+
+.content_box4 {
+  display: flex;
+  width: 150px;
+  background-color: rgb(255, 255, 255);
+  border-radius: 4px;
+  outline: 1px solid rgb(228, 231, 233);
+  padding: 8px;
+}
+
+.priceInput {
+  width: 100%;
+  border: none;
+  outline: none;
+  font-size: 14px;
+  color: rgb(119, 135, 143);
+  background-color: transparent;
+
+  /* Убираем стрелочки */
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+/* Стили для placeholder */
+.priceInput::placeholder {
+  color: rgb(119, 135, 143);
+  font-size: 14px;
+}
+
+/* Убираем outline на фокусе */
+.priceInput:focus {
+  outline: none;
+}
+
+.tagItem {
+  cursor: pointer;
+  padding: 8px;
+  margin: 4px;
+  border-radius: 2px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.selectedTag {
+  background-color: rgb(252 224 0);
+  color: black;
+  font: 500 14px/1.42 "Public Sans", Helvetica, Arial, serif;
+}
+
+.unselectedTag {
+  outline: 1px solid rgb(252, 224, 0);
+  color: black;
+  font: 500 14px/1.42 "Public Sans", Helvetica, Arial, serif;
+}
+
+.brandItem {
+  cursor: pointer;
+  padding: 8px;
+  margin: 4px;
+  display: flex;
+  align-items: center;
+  border-radius: 8px;
+}
+
+.selectedBrand {
+  background-color: yellow;
+}
+
+.unselectedBrand {
+  background-color: lightgray;
 }
