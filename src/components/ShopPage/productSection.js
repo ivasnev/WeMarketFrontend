@@ -6,17 +6,10 @@ import productSectionStyles from './productSection.module.scss';
 import ProductCardGridElement from "../ProductCardGridElement";
 import Pagination from "../Pagination/pagination"
 import productData from "../../mockedData/products"
+import categoriesData from "../../mockedData/categories"
 
 
 const productsPerPage = 16; // Количество продуктов на странице
-
-const categories = [
-    {id: 1, name: "Electronics Devices", icon: "/assets/1c144461a9210e6fd925efe40b1266f4.svg"},
-    {id: 2, name: "Computer & Laptop"},
-    {id: 3, name: "Computer Accessories"},
-    {id: 4, name: "SmartPhone"},
-    {id: 5, name: "Headphone"},
-];
 
 
 const priceRanges = [
@@ -136,7 +129,6 @@ const TagFilter = ({tags}) => {
     );
 };
 
-
 const ProductGrid = ({products}) => (
     <div className={productSectionStyles.productGrid1}>
         {products.map((product) => (
@@ -240,7 +232,7 @@ function CategoryFilter({selectedCategory, setSelectedCategory}) {
         <div className={productSectionStyles.categoryFilterGroup}>
             <p className={productSectionStyles.filterTitle}>Category</p>
             <div className={productSectionStyles.flex_col}>
-                {categories.map((category) => (
+                {categoriesData.map((category) => (
                     <label key={category.id} className={productSectionStyles.unnamed}>
                         <input
                             type="radio"
