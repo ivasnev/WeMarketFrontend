@@ -1,9 +1,13 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 
+import categoriesData from "../../mockedData/categories"
+
 import footerSectionStyles from './footerSection.module.scss';
 
 function renderFooterSection(props) {
+  const limitedCategories = categoriesData.slice(0, 5);
+
   return (
     <section className={footerSectionStyles.footerSection}>
       {/* Main footer with company info and links */}
@@ -26,15 +30,16 @@ function renderFooterSection(props) {
               <p className={footerSectionStyles.highlight61}>Top Category</p>
 
               <div className={footerSectionStyles.unnamed4}>
-                <Link to="/ShopPage" className={footerSectionStyles.text6} state={{selectedCategory: 'Computer & Laptop'}}>
-                  Computer & Laptop
-                </Link>
-                <Link to="/ShopPage" className={footerSectionStyles.text61} state={{selectedCategory: 'SmartPhone'}}>
-                  SmartPhone
-                </Link>
-                <Link to="/ShopPage" className={footerSectionStyles.text62} state={{selectedCategory: 'Headphone'}}>
-                  Headphone
-                </Link>
+                {limitedCategories.map((category) => (
+                    <Link
+                        key={category.id}
+                        to="/ShopPage"
+                        className={footerSectionStyles.text6}
+                        state={{selectedCategory: category.id}}
+                    >
+                      {category.name}
+                    </Link>
+                ))}
               </div>
             </div>
 
@@ -45,10 +50,18 @@ function renderFooterSection(props) {
               </div>
 
               <div className={footerSectionStyles.unnamed6}>
-                <Link to="/ShopPage" className={footerSectionStyles.text63} state={{selectedCategory: 'Camera & Photo'}}>
+                <Link
+                    to="/ShopPage"
+                    className={footerSectionStyles.text63}
+                    state={{selectedCategory: "Camera & Photo"}}
+                >
                   Camera & Photo
                 </Link>
-                <Link to="/ShopPage" className={footerSectionStyles.text64} state={{selectedCategory: 'TV & Homes'}}>
+                <Link
+                    to="/ShopPage"
+                    className={footerSectionStyles.text64}
+                    state={{selectedCategory: "TV & Homes"}}
+                >
                   TV & Homes
                 </Link>
 
@@ -56,7 +69,7 @@ function renderFooterSection(props) {
                   <div className={footerSectionStyles.btn_text}>Browse All Product</div>
                   <img
                       className={footerSectionStyles.btn_icon}
-                      src={'/assets/096d4ea324550ecb0fd042e700f56e0f.svg'}
+                      src="/assets/096d4ea324550ecb0fd042e700f56e0f.svg"
                       alt="alt text"
                   />
                 </button>
@@ -103,12 +116,12 @@ function renderFooterSection(props) {
 
             <div className={footerSectionStyles.unnamed8}>
               <a href="/Homepage" className={footerSectionStyles.text65}>Shop Product</a>
-              <a href="/Homepage" className={footerSectionStyles.text66}>Shoping Cart</a>
-              <a href="/Homepage" className={footerSectionStyles.text67}>Wishlist</a>
-              <a href="/Homepage" className={footerSectionStyles.text68}>Compare</a>
-              <a href="/Homepage" className={footerSectionStyles.text69}>Track Order</a>
-              <a href="/Homepage" className={footerSectionStyles.text610}>Customer Help</a>
-              <a href="/Homepage" className={footerSectionStyles.text611}>About Us</a>
+              <a href="/Cart" className={footerSectionStyles.text66}>Shoping Cart</a>
+              <a href="/Wishlist" className={footerSectionStyles.text67}>Wishlist</a>
+              <a href="/Compare" className={footerSectionStyles.text68}>Compare</a>
+              <a href="/Track_Order" className={footerSectionStyles.text69}>Track Order</a>
+              <a href="/Customer_Help" className={footerSectionStyles.text610}>Customer Help</a>
+              <a href="/About_Us" className={footerSectionStyles.text611}>About Us</a>
             </div>
           </div>
 

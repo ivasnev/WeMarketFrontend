@@ -2,13 +2,12 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import cn from 'classnames';
 
-import renderHeaderSection from './headerSection';
-import renderMenuSection from './menuSection';
+import renderHeaderSection from '../Header/headerSection';
+import renderToolbarSection from '../Toolbar/toolbarSection';
 import renderPathSection from './pathSection';
 import renderProductSection from './productSection';
 import renderSuggestSection from './suggestSection';
-import renderFooterSection from './footerSection';
-
+import renderFooterSection from '../Footer/footerSection';
 import styles from './index.module.scss';
 
 function ProductDetail(props) {
@@ -16,7 +15,7 @@ function ProductDetail(props) {
     <main className={cn(styles.productLayout, props.className, 'product-detail')}>
       {/* Main product detail page layout */}
       {renderHeaderSection(props)}
-      {renderMenuSection(props)}
+      {renderToolbarSection(props)}
       {renderPathSection(props)}
       {renderProductSection(props)}
       {renderSuggestSection(props)}

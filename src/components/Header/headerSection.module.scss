@@ -20,6 +20,10 @@
   }
 }
 
+.link{
+  text-decoration: none;
+}
+
 .logoContainer {
   display: flex;
   gap: 0 8px;
@@ -32,6 +36,7 @@
   min-height: 48px;
   background-color: rgb(228 231 233);
   border-radius: 24px;
+  text-decoration: none;
 }
 
 .brandName {
@@ -39,6 +44,7 @@
   font: 700 32px/1.25 "Public Sans", Helvetica, Arial, serif;
   color: rgb(0 0 0);
   letter-spacing: -0.64px;
+  text-decoration: none;
 
   @include md {
     align-items: flex-start;
@@ -61,7 +67,7 @@
   outline-offset: -2px;
   box-shadow: 0 8px 32px 0 rgb(0 0 0 / 8%);
 
-  @include lg {
+  @include sm {
     display: none !important;
   }
 }
@@ -166,4 +172,20 @@
 .image41 {
   width: 32px;
   object-fit: cover;
+}
+
+/* Стиль для поля ввода */
+.searchInput {
+  width: 100%;
+  border: none;
+  outline: none;
+  box-sizing: border-box;
+  font: 400 14px/1.42 "Public Sans", Helvetica, Arial, serif;
+  color: rgb(119 135 143);
+}
+
+/* Псевдоэлемент для отображения текста-плейсхолдера */
+.searchPlaceholder {
+  font: 400 14px/1.42 "Public Sans", Helvetica, Arial, serif;
+  color: rgb(95, 108, 114);
 }

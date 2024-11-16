@@ -9,6 +9,16 @@ import { isMobile } from 'react-device-detect';
 import 'aos/dist/aos.css';
 import './fonts.css';
 
+function NotFoundPage() {
+  return (
+      <div style={{ textAlign: 'center', padding: '50px' }}>
+        <h1>404 - Page Not Found</h1>
+        <p>Oops! The page you're looking for doesn't exist.</p>
+        <Link to="/">Go back to Homepage</Link>
+      </div>
+  );
+}
+
 function App() {
   useEffect(() => {
     setTimeout(() => {
@@ -20,24 +30,27 @@ function App() {
   }, []);
 
   return (
-    <Router basename={process.env.BASE_PATH}>
-      <Switch>
-        <Route exact path="/">
-          <div>
-            pxCode Screen List: <br />
-            <Link to="/ShopPage">ShopPage</Link>
-            <br />
-            <Link to="/ProductDetail">ProductDetail</Link>
-            <br />
-            <Link to="/Homepage">Homepage</Link>
-          </div>
-        </Route>
+      <Router basename={process.env.BASE_PATH}>
+        <Switch>
+          <Route exact path="/">
+            <div>
+              pxCode Screen List: <br />
+              <Link to="/ShopPage">ShopPage</Link>
+              <br />
+              <Link to="/ProductDetail">ProductDetail</Link>
+              <br />
+              <Link to="/Homepage">Homepage</Link>
+            </div>
+          </Route>
 
-        <Route exact path="/ShopPage" component={ShopPage} />
-        <Route exact path="/ProductDetail" component={ProductDetail} />
-        <Route exact path="/Homepage" component={Homepage} />
-      </Switch>
-    </Router>
+          <Route exact path="/ShopPage" component={ShopPage} />
+          <Route exact path="/ProductDetail" component={ProductDetail} />
+          <Route exact path="/Homepage" component={Homepage} />
+
+          {/* Обработчик для всех несуществующих маршрутов */}
+          <Route component={NotFoundPage} />
+        </Switch>
+      </Router>
   );
 }
 

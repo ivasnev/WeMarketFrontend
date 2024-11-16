@@ -1,6 +1,7 @@
 import React, {useEffect, useState} from 'react';
 import Slider from 'rc-slider';
 import 'rc-slider/assets/index.css';
+import { useLocation } from 'react-router-dom';
 
 import productSectionStyles from './productSection.module.scss';
 import ProductCardGridElement from "../ProductCardGridElement";
@@ -250,8 +251,43 @@ function CategoryFilter({selectedCategory, setSelectedCategory}) {
     );
 }
 
+function SortByDropdown() {
+    const [selectedSort, setSelectedSort] = useState('Most Popular'); // Состояние для хранения выбранной сортировки
+
+    const handleSortChange = (event) => {
+        setSelectedSort(event.target.value); // Обновляем выбранную сортировку
+    };
+
+    return (
+        <div className={productSectionStyles.flex_row3}>
+            <div className={productSectionStyles.text7}>Sort by:</div>
+            <select
+                className={productSectionStyles.dropdown}
+                value={selectedSort}
+                onChange={handleSortChange}
+            >
+                <option value="Most Popular">Most Popular</option>
+                <option value="Price: Low to High">Price: Low to High</option>
+                <option value="Price: High to Low">Price: High to Low</option>
+                <option value="New Arrivals">New Arrivals</option>
+            </select>
+        </div>
+    );
+}
+
 function ProductSection(props) {
-    const [selectedCategory, setSelectedCategory] = useState(null);
+    const location = useLocation();
+
+    useEffect(() => {
+        // Просмотр переданного состояния
+        console.log('Полученное состояние:', location.state);
+    }, [location]);
+
+    // Получаем переданное состояние
+    const initialCategory = location.state?.selectedCategory || null;
+
+    // Хук состояния
+    const [selectedCategory, setSelectedCategory] = useState(initialCategory);
     const [currentPage, setCurrentPage] = useState(1);
     const [products, setProducts] = useState([]);
 
@@ -310,65 +346,52 @@ function ProductSection(props) {
 
                     <div className={productSectionStyles.flex_col3}>
                         <div className={productSectionStyles.flex_row1}>
-                            <div className={productSectionStyles.content_box3}>
-                                <div className={productSectionStyles.flex_row2}>
-                                    <div className={productSectionStyles.text}>Search for anything...</div>
-                                    <img
-                                        className={productSectionStyles.image}
-                                        src={'/assets/38dd0c027b8f2f5b43f08b077f691267.svg'}
-                                        alt="alt text"
-                                    />
-                                </div>
-                            </div>
-
-                            <div className={productSectionStyles.flex_row3}>
-                                <div className={productSectionStyles.text7}>Sort by:</div>
-
-                                <button className={productSectionStyles.btn}>
-                                    {/* TODO */}
-                                    <div className={productSectionStyles.btn_text}>Most Popular</div>
-                                    <img
-                                        className={productSectionStyles.btn_icon}
-                                        src={'/assets/7c98ca9f23e776c5297cdc6d848d7420.svg'}
-                                        alt="alt text"
-                                    />
-                                </button>
-                            </div>
+                            {/*<div className={productSectionStyles.content_box3}>*/}
+                            {/*    <div className={productSectionStyles.flex_row2}>*/}
+                            {/*        <div className={productSectionStyles.text}>Search for anything...</div>*/}
+                            {/*        <img*/}
+                            {/*            className={productSectionStyles.image}*/}
+                            {/*            src={'/assets/38dd0c027b8f2f5b43f08b077f691267.svg'}*/}
+                            {/*            alt="alt text"*/}
+                            {/*        />*/}
+                            {/*    </div>*/}
+                            {/*</div>*/}
+                            <SortByDropdown />
                         </div>
 
-                        <div className={productSectionStyles.content_box2}>
-                            <div className={productSectionStyles.flex_row4}>
-                                <div className={productSectionStyles.flex_row5}>
-                                    <div className={productSectionStyles.text2}>Active Filters:</div>
+                  {/*      <div className={productSectionStyles.content_box2}>*/}
+                  {/*          <div className={productSectionStyles.flex_row4}>*/}
+                  {/*              <div className={productSectionStyles.flex_row5}>*/}
+                  {/*                  <div className={productSectionStyles.text2}>Active Filters:</div>*/}
 
-                                    <div className={productSectionStyles.flex_row6}>
-                                        <div className={productSectionStyles.text7}>Electronics Devices</div>
-                                        <img
-                                            className={productSectionStyles.image18}
-                                            src={'/assets/098291982bf12c21e81231df88222d1d.svg'}
-                                            alt="alt text"
-                                        />
-                                    </div>
+                  {/*                  <div className={productSectionStyles.flex_row6}>*/}
+                  {/*                      <div className={productSectionStyles.text7}>Electronics Devices</div>*/}
+                  {/*                      <img*/}
+                  {/*                          className={productSectionStyles.image18}*/}
+                  {/*                          src={'/assets/098291982bf12c21e81231df88222d1d.svg'}*/}
+                  {/*                          alt="alt text"*/}
+                  {/*                      />*/}
+                  {/*                  </div>*/}
 
-                                    <div className={productSectionStyles.flex_row7}>
-                                        <div className={productSectionStyles.text7}>5 Star Rating</div>
-                                        <img
-                                            className={productSectionStyles.image18}
-                                            src={'/assets/098291982bf12c21e81231df88222d1d.svg'}
-                                            alt="alt text"
-                                        />
-                                    </div>
-                                </div>
+                  {/*                  <div className={productSectionStyles.flex_row7}>*/}
+                  {/*                      <div className={productSectionStyles.text7}>5 Star Rating</div>*/}
+                  {/*                      <img*/}
+                  {/*                          className={productSectionStyles.image18}*/}
+                  {/*                          src={'/assets/098291982bf12c21e81231df88222d1d.svg'}*/}
+                  {/*                          alt="alt text"*/}
+                  {/*                      />*/}
+                  {/*                  </div>*/}
+                  {/*              </div>*/}
 
-                                <div className={productSectionStyles.text8_box}>
-                  <span className={productSectionStyles.text8}>
-                    <span className={productSectionStyles.text8_span0}>65,867</span>
-                    <span className={productSectionStyles.text8_span1}> </span>
-                    <span className={productSectionStyles.text8_span2}>Results found.</span>
-                  </span>
-                                </div>
-                            </div>
-                        </div>
+                  {/*              <div className={productSectionStyles.text8_box}>*/}
+                  {/*<span className={productSectionStyles.text8}>*/}
+                  {/*  <span className={productSectionStyles.text8_span0}>65,867</span>*/}
+                  {/*  <span className={productSectionStyles.text8_span1}> </span>*/}
+                  {/*  <span className={productSectionStyles.text8_span2}>Results found.</span>*/}
+                  {/*</span>*/}
+                  {/*              </div>*/}
+                  {/*          </div>*/}
+                  {/*      </div>*/}
 
                         <ProductGrid products={products}/>
                     </div>

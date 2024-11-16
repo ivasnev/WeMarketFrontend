@@ -987,3 +987,19 @@ input[type="radio"] + span::before {
 .unselectedBrand {
   background-color: lightgray;
 }
+
+.dropdown {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 0 10px;
+  min-width: 180px;
+  background-color: rgb(255 255 255);
+  border-radius: 2px;
+  padding: 12px 16px;
+  outline: 1px solid rgb(228 231 233);
+  outline-offset: -1px;
+  border: none;
+  font: 400 14px/1.42 "Public Sans", Helvetica, Arial, serif;
+  color: rgb(71 81 86);
+}

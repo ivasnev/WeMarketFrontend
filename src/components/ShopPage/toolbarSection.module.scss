@@ -1,8 +1,0 @@
-@use "../utils" as *;
-@use "../global" as *;
-
-.toolbarSection {
-  display: flex;
-  flex-direction: column;
-  min-height: 80px;
-}
