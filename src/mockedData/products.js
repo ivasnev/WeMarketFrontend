@@ -1,4 +1,84 @@
-import { v4 as uuidv4 } from 'uuid';
+import {v4 as uuidv4} from 'uuid';
+
+export const productsColumn1 = [
+    {
+        color: '#ffffff',
+        imageSrc: '/assets/27bc5e53e5966e1ba78ebda685f6bd8b.png',
+        description: 'Bose Sport Earbuds - Wireless Earphones - Bluetooth In Ear...',
+        price: '$1,500',
+    },
+    {
+        color: '#ffffff',
+        imageSrc: '/assets/27bc5e53e5966e1ba78ebda685f6bd8b.png',
+        description: 'Bose Sport Earbuds - Wireless Earphones - Bluetooth In Ear...',
+        price: '$1,500',
+    }, {
+        color: '#ffffff',
+        imageSrc: '/assets/27bc5e53e5966e1ba78ebda685f6bd8b.png',
+        description: 'Bose Sport Earbuds - Wireless Earphones - Bluetooth In Ear...',
+        price: '$1,500',
+    }
+];
+
+export const productsColumn2 = [
+    {
+        color: '#ffffff',
+        imageSrc: '/assets/27bc5e53e5966e1ba78ebda685f6bd8b.png',
+        description: 'Bose Sport Earbuds - Wireless Earphones - Bluetooth In Ear...',
+        price: '$1,500',
+    },
+    {
+        color: '#ffffff',
+        imageSrc: '/assets/27bc5e53e5966e1ba78ebda685f6bd8b.png',
+        description: 'Bose Sport Earbuds - Wireless Earphones - Bluetooth In Ear...',
+        price: '$1,500',
+    }, {
+        color: '#ffffff',
+        imageSrc: '/assets/27bc5e53e5966e1ba78ebda685f6bd8b.png',
+        description: 'Bose Sport Earbuds - Wireless Earphones - Bluetooth In Ear...',
+        price: '$1,500',
+    }
+];
+
+export const productsColumn3 = [
+    {
+        color: '#ffffff',
+        imageSrc: '/assets/27bc5e53e5966e1ba78ebda685f6bd8b.png',
+        description: 'Bose Sport Earbuds - Wireless Earphones - Bluetooth In Ear...',
+        price: '$1,500',
+    },
+    {
+        color: '#ffffff',
+        imageSrc: '/assets/27bc5e53e5966e1ba78ebda685f6bd8b.png',
+        description: 'Bose Sport Earbuds - Wireless Earphones - Bluetooth In Ear...',
+        price: '$1,500',
+    }, {
+        color: '#ffffff',
+        imageSrc: '/assets/27bc5e53e5966e1ba78ebda685f6bd8b.png',
+        description: 'Bose Sport Earbuds - Wireless Earphones - Bluetooth In Ear...',
+        price: '$1,500',
+    }
+];
+
+export const productsColumn4 = [
+    {
+        color: '#ffffff',
+        imageSrc: '/assets/27bc5e53e5966e1ba78ebda685f6bd8b.png',
+        description: 'Bose Sport Earbuds - Wireless Earphones - Bluetooth In Ear...',
+        price: '$1,500',
+    },
+    {
+        color: '#ffffff',
+        imageSrc: '/assets/27bc5e53e5966e1ba78ebda685f6bd8b.png',
+        description: 'Bose Sport Earbuds - Wireless Earphones - Bluetooth In Ear...',
+        price: '$1,500',
+    }, {
+        color: '#ffffff',
+        imageSrc: '/assets/27bc5e53e5966e1ba78ebda685f6bd8b.png',
+        description: 'Bose Sport Earbuds - Wireless Earphones - Bluetooth In Ear...',
+        price: '$1,500',
+    }
+];
 
 export const productData = [
     {
@@ -3219,4 +3299,5 @@ export const productData = [
     },
 ];
 
-export default productData;
+
+export default productData

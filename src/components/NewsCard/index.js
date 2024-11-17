@@ -36,7 +36,8 @@ function NewsCard(props) {
           <p className={styles.description}>{props.highlight3}</p>
         </div>
 
-        <button className={styles.ctaBtn} style={{ '--color': props.btn }}>
+        <button className={styles.ctaBtn} style={{ '--color': props.btn }}
+                onClick={() => window.location.href = props.link}>
           {/* TODO */}
           <span className={styles.ctaText}>{props.btnText}</span>
           <img className={styles.ctaIcon} src={'/assets/1abcff9515ac8f3a1d2e7f4469f3749a.svg'} alt="alt text" />
@@ -56,7 +57,8 @@ NewsCard.propTypes = {
   highlight2: PropTypes.string.isRequired,
   highlight3: PropTypes.string.isRequired,
   btn: PropTypes.string.isRequired,
-  btnText: PropTypes.string.isRequired
+  btnText: PropTypes.string.isRequired,
+  link: PropTypes.string.isRequired,
 };
 
 export default NewsCard;

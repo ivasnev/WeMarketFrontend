@@ -54,7 +54,8 @@
   width: 100%;
 
   @include xl {
-    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
     align-items: center;
     gap: 30px 24px;
   }

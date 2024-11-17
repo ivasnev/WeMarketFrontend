@@ -23,6 +23,8 @@
   align-items: center;
   gap: 0 27px;
   margin: 16px;
+  flex-wrap: wrap;
+  justify-content: center;
 
   @include xxl {
     margin: 16px auto;
@@ -95,6 +97,11 @@
   height: 56px;
   min-height: 56px;
   background-color: rgb(228 231 233);
+
+  @include xl {
+    display: none;
+  }
+
 }
 
 .flex_row2 {
