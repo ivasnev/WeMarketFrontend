@@ -93,17 +93,17 @@
 }
 
 .image30 {
-  position: absolute;
-  top: 91.9964599609375px;
-  left: -23.9930419921875px;
+  transform: translate(-5%, -60%);
   width: 47.99px;
   border-radius: 24px;
 }
 
 .image301 {
-  position: absolute;
-  top: 91.9964599609375px;
-  right: -23.993072509765625px;
+  transform: translate(-50%, -60%);
   width: 47.99px;
   border-radius: 24px;
+}
+
+.sliderContainer{
+  width: 100%;
 }

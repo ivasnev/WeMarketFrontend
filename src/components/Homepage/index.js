@@ -10,7 +10,6 @@ import renderLatestNewsSection from './latestNewsSection';
 import renderFooterSection from '../Footer/footerSection';
 import renderHeaderSection from '../Header/headerSection';
 import renderToolbarSection from '../Toolbar/toolbarSection';
-import NewArrivals from "../NewArrivals/NewArrivals"
 
 import styles from './index.module.scss';
 
@@ -23,7 +22,6 @@ function Homepage(props) {
       {renderFeaturesSection(props)}
       {renderBestDealsSection(props)}
       {renderShopCategoriesSection(props)}
-      {NewArrivals(props)}
       {renderProductShowcaseSection(props)}
       {renderLatestNewsSection(props)}
       {renderFooterSection(props)}

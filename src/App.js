@@ -5,6 +5,7 @@ import ProductDetail from './components/ProductDetail';
 import Homepage from './components/Homepage';
 import AOS from 'aos';
 import { isMobile } from 'react-device-detect';
+import MultipleItems from './components/Slider/index'
 
 import 'aos/dist/aos.css';
 import './fonts.css';
@@ -18,6 +19,7 @@ function NotFoundPage() {
       </div>
   );
 }
+
 
 function App() {
   useEffect(() => {
@@ -46,6 +48,7 @@ function App() {
           <Route exact path="/ShopPage" component={ShopPage} />
           <Route exact path="/ProductDetail" component={ProductDetail} />
           <Route exact path="/Homepage" component={Homepage} />
+          <Route exact path="/aboba" component={MultipleItems} />
 
           {/* Обработчик для всех несуществующих маршрутов */}
           <Route component={NotFoundPage} />
