@@ -9,6 +9,8 @@ import Pagination from "../Pagination/pagination"
 import productData from "../../mockedData/products"
 import categoriesData from "../../mockedData/categories"
 
+import {Link} from "react-router-dom"
+
 
 const productsPerPage = 16; // Количество продуктов на странице
 
@@ -133,15 +135,17 @@ const TagFilter = ({tags}) => {
 const ProductGrid = ({products}) => (
     <div className={productSectionStyles.productGrid1}>
         {products.map((product) => (
-            <ProductCardGridElement
-                key={product.id}
-                contentBox={product.contentBox}
-                image24={product.image24}
-                image25={product.image25}
-                info1={product.info1}
-                text7={product.text7}
-                text9={product.text9}
-            />
+            <Link to={`/ProductDetail/${product.id}`} key={product.id}>
+                <ProductCardGridElement
+                    key={product.id}
+                    contentBox={product.contentBox}
+                    image24={product.image24}
+                    image25={product.image25}
+                    info1={product.num_of_review}
+                    text7={product.name}
+                    text9={product.price}
+                />
+            </Link>
         ))}
     </div>
 );

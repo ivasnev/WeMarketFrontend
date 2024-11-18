@@ -3,7 +3,7 @@ import ProductDetail from './ProductDetail';
 import Homepage from './Homepage';
 import ProductCardSmall from './ProductCardSmall';
 import ProductCardGridElement from './ProductCardGridElement';
-import ProductCard from './ProductCard';
+import ProductCard from './ProductShowCase/ProductCard';
 import NewsCard from './NewsCard';
 import CategoryCard from './CategoryCard';
 

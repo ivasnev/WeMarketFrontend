@@ -6,13 +6,8 @@ import styles from './index.module.scss';
 
 function ProductCardGridElement(props) {
 
-    const handleClick = () => {
-        window.location.href = 'http://localhost:3000/ProductDetail';
-    };
-
     return (
         <section
-            onClick={handleClick}
             className={cn(styles.profileContainer, props.className, 'product-card-grid-element')}
             style={{'--color': props.contentBox}}>
             {/* User profile section with personal information */}

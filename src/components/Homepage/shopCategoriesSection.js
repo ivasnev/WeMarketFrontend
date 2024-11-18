@@ -3,6 +3,8 @@ import Slider from 'react-slick';
 import categoriesData from '../../mockedData/categories';
 import shopCategoriesSectionStyles from "../Homepage/shopCategoriesSection.module.scss";
 
+import {Link} from "react-router-dom"
+
 function SampleNextArrow(props) {
     const {className, onClick} = props;
     return (
@@ -61,14 +63,16 @@ function MultipleItems() {
             <Slider {...settings}>
                 {categoriesData.map((category) => (
                     <div className={shopCategoriesSectionStyles.contentBox}>
-                        <div className={shopCategoriesSectionStyles.unnamed}>
-                            <img
-                                className={shopCategoriesSectionStyles.image29}
-                                src={category.image}
-                                alt="alt text"
-                            />
-                            <p className={shopCategoriesSectionStyles.highlight}>{category.name}</p>
-                        </div>
+                        <Link to={`/ShopPage`}>
+                            <div className={shopCategoriesSectionStyles.unnamed}>
+                                <img
+                                    className={shopCategoriesSectionStyles.image29}
+                                    src={category.image}
+                                    alt="alt text"
+                                />
+                                <p className={shopCategoriesSectionStyles.highlight}>{category.name}</p>
+                            </div>
+                        </Link>
                     </div>
                 ))}
             </Slider>
