@@ -86,16 +86,21 @@ export const productData = [
         contentBox: 'white', // Цвет или другой стиль для карточки
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
+        num_of_review: '24500',
+        name: '2020 Apple MacBook Pro with Apple M1 Chip (13-inch, 8GB RAM, 256GB SSD Storage) - Space Gray',
+        price: '$2400',
+        sku: "A264671",
+        brand: "Apple",
+        availability: "In Stock",
+        category: "Electronics Devices",
+        rating: "4.7",
     },
     {
         id: uuidv4(),
         contentBox: 'white',
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -104,7 +109,7 @@ export const productData = [
         contentBox: 'white', // Цвет или другой стиль для карточки
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -113,7 +118,7 @@ export const productData = [
         contentBox: 'white',
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -122,7 +127,7 @@ export const productData = [
         contentBox: 'white', // Цвет или другой стиль для карточки
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -131,7 +136,7 @@ export const productData = [
         contentBox: 'white',
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -140,7 +145,7 @@ export const productData = [
         contentBox: 'white', // Цвет или другой стиль для карточки
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -149,7 +154,7 @@ export const productData = [
         contentBox: 'white',
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -158,7 +163,7 @@ export const productData = [
         contentBox: 'white', // Цвет или другой стиль для карточки
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -167,7 +172,7 @@ export const productData = [
         contentBox: 'white',
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -176,7 +181,7 @@ export const productData = [
         contentBox: 'white', // Цвет или другой стиль для карточки
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -185,7 +190,7 @@ export const productData = [
         contentBox: 'white',
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -194,7 +199,7 @@ export const productData = [
         contentBox: 'white', // Цвет или другой стиль для карточки
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -203,7 +208,7 @@ export const productData = [
         contentBox: 'white',
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -212,7 +217,7 @@ export const productData = [
         contentBox: 'white', // Цвет или другой стиль для карточки
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -221,7 +226,7 @@ export const productData = [
         contentBox: 'white',
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -230,7 +235,7 @@ export const productData = [
         contentBox: 'white', // Цвет или другой стиль для карточки
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -239,7 +244,7 @@ export const productData = [
         contentBox: 'white',
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -248,7 +253,7 @@ export const productData = [
         contentBox: 'white', // Цвет или другой стиль для карточки
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -257,7 +262,7 @@ export const productData = [
         contentBox: 'white',
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -266,7 +271,7 @@ export const productData = [
         contentBox: 'white', // Цвет или другой стиль для карточки
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -275,7 +280,7 @@ export const productData = [
         contentBox: 'white',
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -284,7 +289,7 @@ export const productData = [
         contentBox: 'white', // Цвет или другой стиль для карточки
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -293,114 +298,7 @@ export const productData = [
         contentBox: 'white',
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
-    }, {
-        id: uuidv4(),
-        contentBox: 'white', // Цвет или другой стиль для карточки
-        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
-        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
-    },
-    {
-        id: uuidv4(),
-        contentBox: 'white',
-        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
-        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
-    },
-    {
-        id: uuidv4(),
-        contentBox: 'white', // Цвет или другой стиль для карточки
-        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
-        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
-    },
-    {
-        id: uuidv4(),
-        contentBox: 'white',
-        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
-        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
-    },
-    {
-        id: uuidv4(),
-        contentBox: 'white', // Цвет или другой стиль для карточки
-        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
-        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
-    },
-    {
-        id: uuidv4(),
-        contentBox: 'white',
-        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
-        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
-    },
-    {
-        id: uuidv4(),
-        contentBox: 'white', // Цвет или другой стиль для карточки
-        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
-        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
-    },
-    {
-        id: uuidv4(),
-        contentBox: 'white',
-        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
-        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
-    },
-    {
-        id: uuidv4(),
-        contentBox: 'white', // Цвет или другой стиль для карточки
-        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
-        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
-    },
-    {
-        id: uuidv4(),
-        contentBox: 'white',
-        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
-        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
-    },
-    {
-        id: uuidv4(),
-        contentBox: 'white', // Цвет или другой стиль для карточки
-        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
-        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
-    },
-    {
-        id: uuidv4(),
-        contentBox: 'white',
-        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
-        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     }, {
@@ -408,7 +306,7 @@ export const productData = [
         contentBox: 'white', // Цвет или другой стиль для карточки
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -417,7 +315,7 @@ export const productData = [
         contentBox: 'white',
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -426,7 +324,7 @@ export const productData = [
         contentBox: 'white', // Цвет или другой стиль для карточки
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -435,7 +333,7 @@ export const productData = [
         contentBox: 'white',
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -444,7 +342,7 @@ export const productData = [
         contentBox: 'white', // Цвет или другой стиль для карточки
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -453,7 +351,7 @@ export const productData = [
         contentBox: 'white',
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -462,7 +360,7 @@ export const productData = [
         contentBox: 'white', // Цвет или другой стиль для карточки
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -471,7 +369,7 @@ export const productData = [
         contentBox: 'white',
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -480,7 +378,7 @@ export const productData = [
         contentBox: 'white', // Цвет или другой стиль для карточки
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -489,7 +387,7 @@ export const productData = [
         contentBox: 'white',
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -498,7 +396,7 @@ export const productData = [
         contentBox: 'white', // Цвет или другой стиль для карточки
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -507,114 +405,7 @@ export const productData = [
         contentBox: 'white',
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
-    }, {
-        id: uuidv4(),
-        contentBox: 'white', // Цвет или другой стиль для карточки
-        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
-        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
-    },
-    {
-        id: uuidv4(),
-        contentBox: 'white',
-        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
-        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
-    },
-    {
-        id: uuidv4(),
-        contentBox: 'white', // Цвет или другой стиль для карточки
-        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
-        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
-    },
-    {
-        id: uuidv4(),
-        contentBox: 'white',
-        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
-        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
-    },
-    {
-        id: uuidv4(),
-        contentBox: 'white', // Цвет или другой стиль для карточки
-        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
-        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
-    },
-    {
-        id: uuidv4(),
-        contentBox: 'white',
-        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
-        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
-    },
-    {
-        id: uuidv4(),
-        contentBox: 'white', // Цвет или другой стиль для карточки
-        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
-        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
-    },
-    {
-        id: uuidv4(),
-        contentBox: 'white',
-        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
-        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
-    },
-    {
-        id: uuidv4(),
-        contentBox: 'white', // Цвет или другой стиль для карточки
-        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
-        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
-    },
-    {
-        id: uuidv4(),
-        contentBox: 'white',
-        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
-        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
-    },
-    {
-        id: uuidv4(),
-        contentBox: 'white', // Цвет или другой стиль для карточки
-        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
-        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
-    },
-    {
-        id: uuidv4(),
-        contentBox: 'white',
-        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
-        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     }, {
@@ -622,7 +413,7 @@ export const productData = [
         contentBox: 'white', // Цвет или другой стиль для карточки
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -631,7 +422,7 @@ export const productData = [
         contentBox: 'white',
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -640,7 +431,7 @@ export const productData = [
         contentBox: 'white', // Цвет или другой стиль для карточки
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -649,7 +440,7 @@ export const productData = [
         contentBox: 'white',
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -658,7 +449,7 @@ export const productData = [
         contentBox: 'white', // Цвет или другой стиль для карточки
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -667,7 +458,7 @@ export const productData = [
         contentBox: 'white',
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -676,7 +467,7 @@ export const productData = [
         contentBox: 'white', // Цвет или другой стиль для карточки
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -685,7 +476,7 @@ export const productData = [
         contentBox: 'white',
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -694,7 +485,7 @@ export const productData = [
         contentBox: 'white', // Цвет или другой стиль для карточки
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -703,7 +494,7 @@ export const productData = [
         contentBox: 'white',
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -712,7 +503,7 @@ export const productData = [
         contentBox: 'white', // Цвет или другой стиль для карточки
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -721,114 +512,7 @@ export const productData = [
         contentBox: 'white',
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
-    }, {
-        id: uuidv4(),
-        contentBox: 'white', // Цвет или другой стиль для карточки
-        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
-        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
-    },
-    {
-        id: uuidv4(),
-        contentBox: 'white',
-        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
-        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
-    },
-    {
-        id: uuidv4(),
-        contentBox: 'white', // Цвет или другой стиль для карточки
-        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
-        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
-    },
-    {
-        id: uuidv4(),
-        contentBox: 'white',
-        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
-        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
-    },
-    {
-        id: uuidv4(),
-        contentBox: 'white', // Цвет или другой стиль для карточки
-        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
-        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
-    },
-    {
-        id: uuidv4(),
-        contentBox: 'white',
-        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
-        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
-    },
-    {
-        id: uuidv4(),
-        contentBox: 'white', // Цвет или другой стиль для карточки
-        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
-        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
-    },
-    {
-        id: uuidv4(),
-        contentBox: 'white',
-        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
-        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
-    },
-    {
-        id: uuidv4(),
-        contentBox: 'white', // Цвет или другой стиль для карточки
-        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
-        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
-    },
-    {
-        id: uuidv4(),
-        contentBox: 'white',
-        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
-        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
-    },
-    {
-        id: uuidv4(),
-        contentBox: 'white', // Цвет или другой стиль для карточки
-        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
-        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
-    },
-    {
-        id: uuidv4(),
-        contentBox: 'white',
-        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
-        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     }, {
@@ -836,7 +520,7 @@ export const productData = [
         contentBox: 'white', // Цвет или другой стиль для карточки
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -845,7 +529,7 @@ export const productData = [
         contentBox: 'white',
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -854,7 +538,7 @@ export const productData = [
         contentBox: 'white', // Цвет или другой стиль для карточки
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -863,7 +547,7 @@ export const productData = [
         contentBox: 'white',
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -872,7 +556,7 @@ export const productData = [
         contentBox: 'white', // Цвет или другой стиль для карточки
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -881,7 +565,7 @@ export const productData = [
         contentBox: 'white',
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -890,7 +574,7 @@ export const productData = [
         contentBox: 'white', // Цвет или другой стиль для карточки
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -899,7 +583,7 @@ export const productData = [
         contentBox: 'white',
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -908,7 +592,7 @@ export const productData = [
         contentBox: 'white', // Цвет или другой стиль для карточки
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -917,7 +601,7 @@ export const productData = [
         contentBox: 'white',
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -926,7 +610,7 @@ export const productData = [
         contentBox: 'white', // Цвет или другой стиль для карточки
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -935,114 +619,7 @@ export const productData = [
         contentBox: 'white',
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
-    }, {
-        id: uuidv4(),
-        contentBox: 'white', // Цвет или другой стиль для карточки
-        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
-        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
-    },
-    {
-        id: uuidv4(),
-        contentBox: 'white',
-        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
-        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
-    },
-    {
-        id: uuidv4(),
-        contentBox: 'white', // Цвет или другой стиль для карточки
-        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
-        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
-    },
-    {
-        id: uuidv4(),
-        contentBox: 'white',
-        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
-        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
-    },
-    {
-        id: uuidv4(),
-        contentBox: 'white', // Цвет или другой стиль для карточки
-        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
-        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
-    },
-    {
-        id: uuidv4(),
-        contentBox: 'white',
-        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
-        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
-    },
-    {
-        id: uuidv4(),
-        contentBox: 'white', // Цвет или другой стиль для карточки
-        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
-        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
-    },
-    {
-        id: uuidv4(),
-        contentBox: 'white',
-        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
-        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
-    },
-    {
-        id: uuidv4(),
-        contentBox: 'white', // Цвет или другой стиль для карточки
-        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
-        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
-    },
-    {
-        id: uuidv4(),
-        contentBox: 'white',
-        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
-        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
-    },
-    {
-        id: uuidv4(),
-        contentBox: 'white', // Цвет или другой стиль для карточки
-        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
-        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
-    },
-    {
-        id: uuidv4(),
-        contentBox: 'white',
-        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
-        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     }, {
@@ -1050,7 +627,7 @@ export const productData = [
         contentBox: 'white', // Цвет или другой стиль для карточки
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -1059,7 +636,7 @@ export const productData = [
         contentBox: 'white',
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -1068,7 +645,7 @@ export const productData = [
         contentBox: 'white', // Цвет или другой стиль для карточки
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -1077,7 +654,7 @@ export const productData = [
         contentBox: 'white',
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -1086,7 +663,7 @@ export const productData = [
         contentBox: 'white', // Цвет или другой стиль для карточки
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -1095,7 +672,7 @@ export const productData = [
         contentBox: 'white',
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -1104,7 +681,7 @@ export const productData = [
         contentBox: 'white', // Цвет или другой стиль для карточки
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -1113,7 +690,7 @@ export const productData = [
         contentBox: 'white',
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -1122,7 +699,7 @@ export const productData = [
         contentBox: 'white', // Цвет или другой стиль для карточки
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -1131,7 +708,7 @@ export const productData = [
         contentBox: 'white',
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -1140,7 +717,7 @@ export const productData = [
         contentBox: 'white', // Цвет или другой стиль для карточки
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -1149,223 +726,7 @@ export const productData = [
         contentBox: 'white',
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
-    },
-    {
-        id: uuidv4(),
-        contentBox: 'white', // Цвет или другой стиль для карточки
-        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
-        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
-    },
-    {
-        id: uuidv4(),
-        contentBox: 'white',
-        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
-        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
-    },
-    {
-        id: uuidv4(),
-        contentBox: 'white', // Цвет или другой стиль для карточки
-        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
-        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
-    },
-    {
-        id: uuidv4(),
-        contentBox: 'white',
-        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
-        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
-    },
-    {
-        id: uuidv4(),
-        contentBox: 'white', // Цвет или другой стиль для карточки
-        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
-        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
-    },
-    {
-        id: uuidv4(),
-        contentBox: 'white',
-        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
-        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
-    },
-    {
-        id: uuidv4(),
-        contentBox: 'white', // Цвет или другой стиль для карточки
-        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
-        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
-    },
-    {
-        id: uuidv4(),
-        contentBox: 'white',
-        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
-        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
-    },
-    {
-        id: uuidv4(),
-        contentBox: 'white', // Цвет или другой стиль для карточки
-        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
-        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
-    },
-    {
-        id: uuidv4(),
-        contentBox: 'white',
-        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
-        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
-    },
-    {
-        id: uuidv4(),
-        contentBox: 'white', // Цвет или другой стиль для карточки
-        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
-        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
-    },
-    {
-        id: uuidv4(),
-        contentBox: 'white',
-        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
-        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
-    },
-    {
-        id: uuidv4(),
-        contentBox: 'white', // Цвет или другой стиль для карточки
-        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
-        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
-    },
-    {
-        id: uuidv4(),
-        contentBox: 'white',
-        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
-        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
-    },
-    {
-        id: uuidv4(),
-        contentBox: 'white', // Цвет или другой стиль для карточки
-        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
-        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
-    },
-    {
-        id: uuidv4(),
-        contentBox: 'white',
-        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
-        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
-    },
-    {
-        id: uuidv4(),
-        contentBox: 'white', // Цвет или другой стиль для карточки
-        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
-        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
-    },
-    {
-        id: uuidv4(),
-        contentBox: 'white',
-        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
-        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
-    },
-    {
-        id: uuidv4(),
-        contentBox: 'white', // Цвет или другой стиль для карточки
-        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
-        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
-    },
-    {
-        id: uuidv4(),
-        contentBox: 'white',
-        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
-        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
-    },
-    {
-        id: uuidv4(),
-        contentBox: 'white', // Цвет или другой стиль для карточки
-        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
-        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
-    },
-    {
-        id: uuidv4(),
-        contentBox: 'white',
-        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
-        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
-    },
-    {
-        id: uuidv4(),
-        contentBox: 'white', // Цвет или другой стиль для карточки
-        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
-        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
-    },
-    {
-        id: uuidv4(),
-        contentBox: 'white',
-        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
-        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     }, {
@@ -1373,7 +734,7 @@ export const productData = [
         contentBox: 'white', // Цвет или другой стиль для карточки
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -1382,7 +743,7 @@ export const productData = [
         contentBox: 'white',
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -1391,7 +752,7 @@ export const productData = [
         contentBox: 'white', // Цвет или другой стиль для карточки
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -1400,7 +761,7 @@ export const productData = [
         contentBox: 'white',
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -1409,7 +770,7 @@ export const productData = [
         contentBox: 'white', // Цвет или другой стиль для карточки
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -1418,7 +779,7 @@ export const productData = [
         contentBox: 'white',
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -1427,7 +788,7 @@ export const productData = [
         contentBox: 'white', // Цвет или другой стиль для карточки
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -1436,7 +797,7 @@ export const productData = [
         contentBox: 'white',
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -1445,7 +806,7 @@ export const productData = [
         contentBox: 'white', // Цвет или другой стиль для карточки
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -1454,7 +815,7 @@ export const productData = [
         contentBox: 'white',
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -1463,7 +824,7 @@ export const productData = [
         contentBox: 'white', // Цвет или другой стиль для карточки
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -1472,114 +833,7 @@ export const productData = [
         contentBox: 'white',
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
-    }, {
-        id: uuidv4(),
-        contentBox: 'white', // Цвет или другой стиль для карточки
-        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
-        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
-    },
-    {
-        id: uuidv4(),
-        contentBox: 'white',
-        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
-        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
-    },
-    {
-        id: uuidv4(),
-        contentBox: 'white', // Цвет или другой стиль для карточки
-        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
-        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
-    },
-    {
-        id: uuidv4(),
-        contentBox: 'white',
-        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
-        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
-    },
-    {
-        id: uuidv4(),
-        contentBox: 'white', // Цвет или другой стиль для карточки
-        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
-        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
-    },
-    {
-        id: uuidv4(),
-        contentBox: 'white',
-        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
-        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
-    },
-    {
-        id: uuidv4(),
-        contentBox: 'white', // Цвет или другой стиль для карточки
-        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
-        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
-    },
-    {
-        id: uuidv4(),
-        contentBox: 'white',
-        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
-        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
-    },
-    {
-        id: uuidv4(),
-        contentBox: 'white', // Цвет или другой стиль для карточки
-        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
-        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
-    },
-    {
-        id: uuidv4(),
-        contentBox: 'white',
-        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
-        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
-    },
-    {
-        id: uuidv4(),
-        contentBox: 'white', // Цвет или другой стиль для карточки
-        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
-        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
-    },
-    {
-        id: uuidv4(),
-        contentBox: 'white',
-        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
-        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     }, {
@@ -1587,7 +841,7 @@ export const productData = [
         contentBox: 'white', // Цвет или другой стиль для карточки
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -1596,7 +850,7 @@ export const productData = [
         contentBox: 'white',
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -1605,7 +859,7 @@ export const productData = [
         contentBox: 'white', // Цвет или другой стиль для карточки
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -1614,7 +868,7 @@ export const productData = [
         contentBox: 'white',
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -1623,7 +877,7 @@ export const productData = [
         contentBox: 'white', // Цвет или другой стиль для карточки
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -1632,7 +886,7 @@ export const productData = [
         contentBox: 'white',
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -1641,7 +895,7 @@ export const productData = [
         contentBox: 'white', // Цвет или другой стиль для карточки
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -1650,7 +904,7 @@ export const productData = [
         contentBox: 'white',
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -1659,7 +913,7 @@ export const productData = [
         contentBox: 'white', // Цвет или другой стиль для карточки
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -1668,7 +922,7 @@ export const productData = [
         contentBox: 'white',
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -1677,7 +931,7 @@ export const productData = [
         contentBox: 'white', // Цвет или другой стиль для карточки
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -1686,114 +940,7 @@ export const productData = [
         contentBox: 'white',
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
-    }, {
-        id: uuidv4(),
-        contentBox: 'white', // Цвет или другой стиль для карточки
-        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
-        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
-    },
-    {
-        id: uuidv4(),
-        contentBox: 'white',
-        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
-        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
-    },
-    {
-        id: uuidv4(),
-        contentBox: 'white', // Цвет или другой стиль для карточки
-        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
-        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
-    },
-    {
-        id: uuidv4(),
-        contentBox: 'white',
-        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
-        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
-    },
-    {
-        id: uuidv4(),
-        contentBox: 'white', // Цвет или другой стиль для карточки
-        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
-        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
-    },
-    {
-        id: uuidv4(),
-        contentBox: 'white',
-        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
-        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
-    },
-    {
-        id: uuidv4(),
-        contentBox: 'white', // Цвет или другой стиль для карточки
-        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
-        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
-    },
-    {
-        id: uuidv4(),
-        contentBox: 'white',
-        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
-        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
-    },
-    {
-        id: uuidv4(),
-        contentBox: 'white', // Цвет или другой стиль для карточки
-        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
-        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
-    },
-    {
-        id: uuidv4(),
-        contentBox: 'white',
-        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
-        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
-    },
-    {
-        id: uuidv4(),
-        contentBox: 'white', // Цвет или другой стиль для карточки
-        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
-        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
-    },
-    {
-        id: uuidv4(),
-        contentBox: 'white',
-        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
-        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     }, {
@@ -1801,7 +948,7 @@ export const productData = [
         contentBox: 'white', // Цвет или другой стиль для карточки
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -1810,7 +957,7 @@ export const productData = [
         contentBox: 'white',
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -1819,7 +966,7 @@ export const productData = [
         contentBox: 'white', // Цвет или другой стиль для карточки
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -1828,7 +975,7 @@ export const productData = [
         contentBox: 'white',
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -1837,7 +984,7 @@ export const productData = [
         contentBox: 'white', // Цвет или другой стиль для карточки
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -1846,7 +993,7 @@ export const productData = [
         contentBox: 'white',
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -1855,7 +1002,7 @@ export const productData = [
         contentBox: 'white', // Цвет или другой стиль для карточки
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -1864,7 +1011,7 @@ export const productData = [
         contentBox: 'white',
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -1873,7 +1020,7 @@ export const productData = [
         contentBox: 'white', // Цвет или другой стиль для карточки
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -1882,7 +1029,7 @@ export const productData = [
         contentBox: 'white',
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -1891,7 +1038,7 @@ export const productData = [
         contentBox: 'white', // Цвет или другой стиль для карточки
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -1900,114 +1047,7 @@ export const productData = [
         contentBox: 'white',
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
-    }, {
-        id: uuidv4(),
-        contentBox: 'white', // Цвет или другой стиль для карточки
-        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
-        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
-    },
-    {
-        id: uuidv4(),
-        contentBox: 'white',
-        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
-        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
-    },
-    {
-        id: uuidv4(),
-        contentBox: 'white', // Цвет или другой стиль для карточки
-        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
-        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
-    },
-    {
-        id: uuidv4(),
-        contentBox: 'white',
-        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
-        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
-    },
-    {
-        id: uuidv4(),
-        contentBox: 'white', // Цвет или другой стиль для карточки
-        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
-        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
-    },
-    {
-        id: uuidv4(),
-        contentBox: 'white',
-        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
-        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
-    },
-    {
-        id: uuidv4(),
-        contentBox: 'white', // Цвет или другой стиль для карточки
-        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
-        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
-    },
-    {
-        id: uuidv4(),
-        contentBox: 'white',
-        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
-        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
-    },
-    {
-        id: uuidv4(),
-        contentBox: 'white', // Цвет или другой стиль для карточки
-        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
-        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
-    },
-    {
-        id: uuidv4(),
-        contentBox: 'white',
-        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
-        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
-    },
-    {
-        id: uuidv4(),
-        contentBox: 'white', // Цвет или другой стиль для карточки
-        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
-        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
-    },
-    {
-        id: uuidv4(),
-        contentBox: 'white',
-        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
-        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     }, {
@@ -2015,7 +1055,7 @@ export const productData = [
         contentBox: 'white', // Цвет или другой стиль для карточки
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -2024,7 +1064,7 @@ export const productData = [
         contentBox: 'white',
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -2033,7 +1073,7 @@ export const productData = [
         contentBox: 'white', // Цвет или другой стиль для карточки
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -2042,7 +1082,7 @@ export const productData = [
         contentBox: 'white',
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -2051,7 +1091,7 @@ export const productData = [
         contentBox: 'white', // Цвет или другой стиль для карточки
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -2060,7 +1100,7 @@ export const productData = [
         contentBox: 'white',
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -2069,7 +1109,7 @@ export const productData = [
         contentBox: 'white', // Цвет или другой стиль для карточки
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -2078,7 +1118,7 @@ export const productData = [
         contentBox: 'white',
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -2087,7 +1127,7 @@ export const productData = [
         contentBox: 'white', // Цвет или другой стиль для карточки
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -2096,7 +1136,7 @@ export const productData = [
         contentBox: 'white',
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -2105,7 +1145,7 @@ export const productData = [
         contentBox: 'white', // Цвет или другой стиль для карточки
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -2114,24 +1154,7 @@ export const productData = [
         contentBox: 'white',
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
-    }, {
-        id: uuidv4(),
-        contentBox: 'white', // Цвет или другой стиль для карточки
-        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
-        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
-    },
-    {
-        id: uuidv4(),
-        contentBox: 'white',
-        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
-        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -2140,7 +1163,7 @@ export const productData = [
         contentBox: 'white', // Цвет или другой стиль для карточки
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -2149,7 +1172,7 @@ export const productData = [
         contentBox: 'white',
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -2158,7 +1181,7 @@ export const productData = [
         contentBox: 'white', // Цвет или другой стиль для карточки
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -2167,7 +1190,7 @@ export const productData = [
         contentBox: 'white',
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -2176,7 +1199,7 @@ export const productData = [
         contentBox: 'white', // Цвет или другой стиль для карточки
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -2185,7 +1208,7 @@ export const productData = [
         contentBox: 'white',
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -2194,7 +1217,7 @@ export const productData = [
         contentBox: 'white', // Цвет или другой стиль для карточки
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -2203,7 +1226,7 @@ export const productData = [
         contentBox: 'white',
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -2212,7 +1235,7 @@ export const productData = [
         contentBox: 'white', // Цвет или другой стиль для карточки
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -2221,7 +1244,7 @@ export const productData = [
         contentBox: 'white',
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -2230,7 +1253,7 @@ export const productData = [
         contentBox: 'white', // Цвет или другой стиль для карточки
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -2239,7 +1262,7 @@ export const productData = [
         contentBox: 'white',
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -2248,7 +1271,7 @@ export const productData = [
         contentBox: 'white', // Цвет или другой стиль для карточки
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -2257,7 +1280,7 @@ export const productData = [
         contentBox: 'white',
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -2266,7 +1289,7 @@ export const productData = [
         contentBox: 'white', // Цвет или другой стиль для карточки
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -2275,7 +1298,7 @@ export const productData = [
         contentBox: 'white',
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -2284,7 +1307,7 @@ export const productData = [
         contentBox: 'white', // Цвет или другой стиль для карточки
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -2293,7 +1316,7 @@ export const productData = [
         contentBox: 'white',
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -2302,7 +1325,7 @@ export const productData = [
         contentBox: 'white', // Цвет или другой стиль для карточки
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -2311,7 +1334,7 @@ export const productData = [
         contentBox: 'white',
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -2320,7 +1343,7 @@ export const productData = [
         contentBox: 'white', // Цвет или другой стиль для карточки
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -2329,7 +1352,7 @@ export const productData = [
         contentBox: 'white',
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -2338,7 +1361,7 @@ export const productData = [
         contentBox: 'white', // Цвет или другой стиль для карточки
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -2347,97 +1370,7 @@ export const productData = [
         contentBox: 'white',
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
-    },
-    {
-        id: uuidv4(),
-        contentBox: 'white', // Цвет или другой стиль для карточки
-        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
-        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
-    },
-    {
-        id: uuidv4(),
-        contentBox: 'white',
-        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
-        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
-    },
-    {
-        id: uuidv4(),
-        contentBox: 'white', // Цвет или другой стиль для карточки
-        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
-        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
-    },
-    {
-        id: uuidv4(),
-        contentBox: 'white',
-        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
-        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
-    },
-    {
-        id: uuidv4(),
-        contentBox: 'white', // Цвет или другой стиль для карточки
-        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
-        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
-    },
-    {
-        id: uuidv4(),
-        contentBox: 'white',
-        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
-        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
-    },
-    {
-        id: uuidv4(),
-        contentBox: 'white', // Цвет или другой стиль для карточки
-        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
-        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
-    },
-    {
-        id: uuidv4(),
-        contentBox: 'white',
-        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
-        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
-    },
-    {
-        id: uuidv4(),
-        contentBox: 'white', // Цвет или другой стиль для карточки
-        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
-        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
-        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
-        price: '$70'
-    },
-    {
-        id: uuidv4(),
-        contentBox: 'white',
-        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
-        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     }, {
@@ -2445,7 +1378,7 @@ export const productData = [
         contentBox: 'white', // Цвет или другой стиль для карточки
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -2454,7 +1387,7 @@ export const productData = [
         contentBox: 'white',
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -2463,7 +1396,7 @@ export const productData = [
         contentBox: 'white', // Цвет или другой стиль для карточки
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -2472,7 +1405,7 @@ export const productData = [
         contentBox: 'white',
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -2481,7 +1414,7 @@ export const productData = [
         contentBox: 'white', // Цвет или другой стиль для карточки
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -2490,7 +1423,7 @@ export const productData = [
         contentBox: 'white',
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -2499,7 +1432,7 @@ export const productData = [
         contentBox: 'white', // Цвет или другой стиль для карточки
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -2508,7 +1441,7 @@ export const productData = [
         contentBox: 'white',
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -2517,7 +1450,7 @@ export const productData = [
         contentBox: 'white', // Цвет или другой стиль для карточки
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -2526,7 +1459,7 @@ export const productData = [
         contentBox: 'white',
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -2535,7 +1468,7 @@ export const productData = [
         contentBox: 'white', // Цвет или другой стиль для карточки
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -2544,7 +1477,7 @@ export const productData = [
         contentBox: 'white',
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     }, {
@@ -2552,7 +1485,7 @@ export const productData = [
         contentBox: 'white', // Цвет или другой стиль для карточки
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -2561,7 +1494,7 @@ export const productData = [
         contentBox: 'white',
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -2570,7 +1503,7 @@ export const productData = [
         contentBox: 'white', // Цвет или другой стиль для карточки
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -2579,7 +1512,7 @@ export const productData = [
         contentBox: 'white',
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -2588,7 +1521,7 @@ export const productData = [
         contentBox: 'white', // Цвет или другой стиль для карточки
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -2597,7 +1530,7 @@ export const productData = [
         contentBox: 'white',
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -2606,7 +1539,7 @@ export const productData = [
         contentBox: 'white', // Цвет или другой стиль для карточки
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -2615,7 +1548,7 @@ export const productData = [
         contentBox: 'white',
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -2624,7 +1557,7 @@ export const productData = [
         contentBox: 'white', // Цвет или другой стиль для карточки
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -2633,7 +1566,7 @@ export const productData = [
         contentBox: 'white',
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -2642,7 +1575,7 @@ export const productData = [
         contentBox: 'white', // Цвет или другой стиль для карточки
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -2651,7 +1584,7 @@ export const productData = [
         contentBox: 'white',
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     }, {
@@ -2659,7 +1592,7 @@ export const productData = [
         contentBox: 'white', // Цвет или другой стиль для карточки
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -2668,7 +1601,7 @@ export const productData = [
         contentBox: 'white',
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -2677,7 +1610,7 @@ export const productData = [
         contentBox: 'white', // Цвет или другой стиль для карточки
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -2686,7 +1619,7 @@ export const productData = [
         contentBox: 'white',
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -2695,7 +1628,7 @@ export const productData = [
         contentBox: 'white', // Цвет или другой стиль для карточки
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -2704,7 +1637,7 @@ export const productData = [
         contentBox: 'white',
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -2713,7 +1646,7 @@ export const productData = [
         contentBox: 'white', // Цвет или другой стиль для карточки
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -2722,7 +1655,7 @@ export const productData = [
         contentBox: 'white',
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -2731,7 +1664,7 @@ export const productData = [
         contentBox: 'white', // Цвет или другой стиль для карточки
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -2740,7 +1673,7 @@ export const productData = [
         contentBox: 'white',
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -2749,7 +1682,7 @@ export const productData = [
         contentBox: 'white', // Цвет или другой стиль для карточки
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -2758,7 +1691,7 @@ export const productData = [
         contentBox: 'white',
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     }, {
@@ -2766,7 +1699,7 @@ export const productData = [
         contentBox: 'white', // Цвет или другой стиль для карточки
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -2775,7 +1708,7 @@ export const productData = [
         contentBox: 'white',
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -2784,7 +1717,7 @@ export const productData = [
         contentBox: 'white', // Цвет или другой стиль для карточки
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -2793,7 +1726,7 @@ export const productData = [
         contentBox: 'white',
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -2802,7 +1735,7 @@ export const productData = [
         contentBox: 'white', // Цвет или другой стиль для карточки
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -2811,7 +1744,7 @@ export const productData = [
         contentBox: 'white',
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -2820,7 +1753,7 @@ export const productData = [
         contentBox: 'white', // Цвет или другой стиль для карточки
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -2829,7 +1762,7 @@ export const productData = [
         contentBox: 'white',
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -2838,7 +1771,7 @@ export const productData = [
         contentBox: 'white', // Цвет или другой стиль для карточки
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -2847,7 +1780,7 @@ export const productData = [
         contentBox: 'white',
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -2856,7 +1789,7 @@ export const productData = [
         contentBox: 'white', // Цвет или другой стиль для карточки
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -2865,7 +1798,7 @@ export const productData = [
         contentBox: 'white',
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     }, {
@@ -2873,7 +1806,7 @@ export const productData = [
         contentBox: 'white', // Цвет или другой стиль для карточки
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -2882,7 +1815,7 @@ export const productData = [
         contentBox: 'white',
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -2891,7 +1824,7 @@ export const productData = [
         contentBox: 'white', // Цвет или другой стиль для карточки
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -2900,7 +1833,7 @@ export const productData = [
         contentBox: 'white',
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -2909,7 +1842,7 @@ export const productData = [
         contentBox: 'white', // Цвет или другой стиль для карточки
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -2918,7 +1851,7 @@ export const productData = [
         contentBox: 'white',
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -2927,7 +1860,7 @@ export const productData = [
         contentBox: 'white', // Цвет или другой стиль для карточки
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -2936,7 +1869,7 @@ export const productData = [
         contentBox: 'white',
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -2945,7 +1878,7 @@ export const productData = [
         contentBox: 'white', // Цвет или другой стиль для карточки
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -2954,7 +1887,7 @@ export const productData = [
         contentBox: 'white',
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -2963,7 +1896,7 @@ export const productData = [
         contentBox: 'white', // Цвет или другой стиль для карточки
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -2972,7 +1905,7 @@ export const productData = [
         contentBox: 'white',
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     }, {
@@ -2980,7 +1913,7 @@ export const productData = [
         contentBox: 'white', // Цвет или другой стиль для карточки
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -2989,7 +1922,7 @@ export const productData = [
         contentBox: 'white',
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -2998,7 +1931,7 @@ export const productData = [
         contentBox: 'white', // Цвет или другой стиль для карточки
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -3007,7 +1940,7 @@ export const productData = [
         contentBox: 'white',
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -3016,7 +1949,7 @@ export const productData = [
         contentBox: 'white', // Цвет или другой стиль для карточки
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -3025,7 +1958,7 @@ export const productData = [
         contentBox: 'white',
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -3034,7 +1967,7 @@ export const productData = [
         contentBox: 'white', // Цвет или другой стиль для карточки
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -3043,7 +1976,7 @@ export const productData = [
         contentBox: 'white',
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -3052,7 +1985,7 @@ export const productData = [
         contentBox: 'white', // Цвет или другой стиль для карточки
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -3061,7 +1994,7 @@ export const productData = [
         contentBox: 'white',
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -3070,7 +2003,7 @@ export const productData = [
         contentBox: 'white', // Цвет или другой стиль для карточки
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -3079,7 +2012,7 @@ export const productData = [
         contentBox: 'white',
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     }, {
@@ -3087,7 +2020,7 @@ export const productData = [
         contentBox: 'white', // Цвет или другой стиль для карточки
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -3096,7 +2029,7 @@ export const productData = [
         contentBox: 'white',
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -3105,7 +2038,7 @@ export const productData = [
         contentBox: 'white', // Цвет или другой стиль для карточки
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -3114,7 +2047,7 @@ export const productData = [
         contentBox: 'white',
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -3123,7 +2056,7 @@ export const productData = [
         contentBox: 'white', // Цвет или другой стиль для карточки
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -3132,7 +2065,7 @@ export const productData = [
         contentBox: 'white',
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -3141,7 +2074,7 @@ export const productData = [
         contentBox: 'white', // Цвет или другой стиль для карточки
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -3150,7 +2083,7 @@ export const productData = [
         contentBox: 'white',
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -3159,7 +2092,7 @@ export const productData = [
         contentBox: 'white', // Цвет или другой стиль для карточки
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -3168,7 +2101,7 @@ export const productData = [
         contentBox: 'white',
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -3177,7 +2110,7 @@ export const productData = [
         contentBox: 'white', // Цвет или другой стиль для карточки
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -3186,7 +2119,7 @@ export const productData = [
         contentBox: 'white',
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     }, {
@@ -3194,7 +2127,7 @@ export const productData = [
         contentBox: 'white', // Цвет или другой стиль для карточки
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -3203,7 +2136,7 @@ export const productData = [
         contentBox: 'white',
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -3212,7 +2145,7 @@ export const productData = [
         contentBox: 'white', // Цвет или другой стиль для карточки
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -3221,7 +2154,7 @@ export const productData = [
         contentBox: 'white',
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -3230,7 +2163,7 @@ export const productData = [
         contentBox: 'white', // Цвет или другой стиль для карточки
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -3239,7 +2172,7 @@ export const productData = [
         contentBox: 'white',
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -3248,7 +2181,7 @@ export const productData = [
         contentBox: 'white', // Цвет или другой стиль для карточки
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -3257,7 +2190,7 @@ export const productData = [
         contentBox: 'white',
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -3266,7 +2199,7 @@ export const productData = [
         contentBox: 'white', // Цвет или другой стиль для карточки
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -3275,7 +2208,7 @@ export const productData = [
         contentBox: 'white',
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -3284,7 +2217,7 @@ export const productData = [
         contentBox: 'white', // Цвет или другой стиль для карточки
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
@@ -3293,7 +2226,1079 @@ export const productData = [
         contentBox: 'white',
         image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
         image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
-        num_of_review: '(738)',
+        num_of_review: '738',
+        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
+        price: '$70'
+    },
+    {
+        id: uuidv4(),
+        contentBox: 'white', // Цвет или другой стиль для карточки
+        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
+        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
+        num_of_review: '738',
+        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
+        price: '$70'
+    },
+    {
+        id: uuidv4(),
+        contentBox: 'white',
+        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
+        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
+        num_of_review: '738',
+        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
+        price: '$70'
+    },
+    {
+        id: uuidv4(),
+        contentBox: 'white', // Цвет или другой стиль для карточки
+        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
+        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
+        num_of_review: '738',
+        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
+        price: '$70'
+    },
+    {
+        id: uuidv4(),
+        contentBox: 'white',
+        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
+        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
+        num_of_review: '738',
+        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
+        price: '$70'
+    },
+    {
+        id: uuidv4(),
+        contentBox: 'white', // Цвет или другой стиль для карточки
+        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
+        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
+        num_of_review: '738',
+        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
+        price: '$70'
+    },
+    {
+        id: uuidv4(),
+        contentBox: 'white',
+        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
+        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
+        num_of_review: '738',
+        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
+        price: '$70'
+    },
+    {
+        id: uuidv4(),
+        contentBox: 'white', // Цвет или другой стиль для карточки
+        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
+        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
+        num_of_review: '738',
+        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
+        price: '$70'
+    },
+    {
+        id: uuidv4(),
+        contentBox: 'white',
+        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
+        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
+        num_of_review: '738',
+        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
+        price: '$70'
+    },
+    {
+        id: uuidv4(),
+        contentBox: 'white', // Цвет или другой стиль для карточки
+        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
+        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
+        num_of_review: '738',
+        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
+        price: '$70'
+    },
+    {
+        id: uuidv4(),
+        contentBox: 'white',
+        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
+        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
+        num_of_review: '738',
+        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
+        price: '$70'
+    },
+    {
+        id: uuidv4(),
+        contentBox: 'white', // Цвет или другой стиль для карточки
+        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
+        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
+        num_of_review: '738',
+        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
+        price: '$70'
+    },
+    {
+        id: uuidv4(),
+        contentBox: 'white',
+        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
+        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
+        num_of_review: '738',
+        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
+        price: '$70'
+    },
+    {
+        id: uuidv4(),
+        contentBox: 'white', // Цвет или другой стиль для карточки
+        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
+        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
+        num_of_review: '738',
+        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
+        price: '$70'
+    },
+    {
+        id: uuidv4(),
+        contentBox: 'white',
+        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
+        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
+        num_of_review: '738',
+        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
+        price: '$70'
+    },
+    {
+        id: uuidv4(),
+        contentBox: 'white', // Цвет или другой стиль для карточки
+        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
+        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
+        num_of_review: '738',
+        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
+        price: '$70'
+    },
+    {
+        id: uuidv4(),
+        contentBox: 'white',
+        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
+        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
+        num_of_review: '738',
+        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
+        price: '$70'
+    },
+    {
+        id: uuidv4(),
+        contentBox: 'white', // Цвет или другой стиль для карточки
+        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
+        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
+        num_of_review: '738',
+        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
+        price: '$70'
+    },
+    {
+        id: uuidv4(),
+        contentBox: 'white',
+        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
+        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
+        num_of_review: '738',
+        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
+        price: '$70'
+    },
+    {
+        id: uuidv4(),
+        contentBox: 'white', // Цвет или другой стиль для карточки
+        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
+        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
+        num_of_review: '738',
+        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
+        price: '$70'
+    },
+    {
+        id: uuidv4(),
+        contentBox: 'white',
+        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
+        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
+        num_of_review: '738',
+        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
+        price: '$70'
+    },
+    {
+        id: uuidv4(),
+        contentBox: 'white', // Цвет или другой стиль для карточки
+        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
+        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
+        num_of_review: '738',
+        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
+        price: '$70'
+    },
+    {
+        id: uuidv4(),
+        contentBox: 'white',
+        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
+        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
+        num_of_review: '738',
+        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
+        price: '$70'
+    },
+    {
+        id: uuidv4(),
+        contentBox: 'white', // Цвет или другой стиль для карточки
+        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
+        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
+        num_of_review: '738',
+        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
+        price: '$70'
+    },
+    {
+        id: uuidv4(),
+        contentBox: 'white',
+        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
+        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
+        num_of_review: '738',
+        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
+        price: '$70'
+    }, {
+        id: uuidv4(),
+        contentBox: 'white', // Цвет или другой стиль для карточки
+        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
+        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
+        num_of_review: '738',
+        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
+        price: '$70'
+    },
+    {
+        id: uuidv4(),
+        contentBox: 'white',
+        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
+        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
+        num_of_review: '738',
+        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
+        price: '$70'
+    },
+    {
+        id: uuidv4(),
+        contentBox: 'white', // Цвет или другой стиль для карточки
+        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
+        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
+        num_of_review: '738',
+        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
+        price: '$70'
+    },
+    {
+        id: uuidv4(),
+        contentBox: 'white',
+        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
+        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
+        num_of_review: '738',
+        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
+        price: '$70'
+    },
+    {
+        id: uuidv4(),
+        contentBox: 'white', // Цвет или другой стиль для карточки
+        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
+        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
+        num_of_review: '738',
+        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
+        price: '$70'
+    },
+    {
+        id: uuidv4(),
+        contentBox: 'white',
+        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
+        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
+        num_of_review: '738',
+        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
+        price: '$70'
+    },
+    {
+        id: uuidv4(),
+        contentBox: 'white', // Цвет или другой стиль для карточки
+        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
+        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
+        num_of_review: '738',
+        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
+        price: '$70'
+    },
+    {
+        id: uuidv4(),
+        contentBox: 'white',
+        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
+        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
+        num_of_review: '738',
+        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
+        price: '$70'
+    },
+    {
+        id: uuidv4(),
+        contentBox: 'white', // Цвет или другой стиль для карточки
+        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
+        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
+        num_of_review: '738',
+        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
+        price: '$70'
+    },
+    {
+        id: uuidv4(),
+        contentBox: 'white',
+        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
+        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
+        num_of_review: '738',
+        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
+        price: '$70'
+    },
+    {
+        id: uuidv4(),
+        contentBox: 'white', // Цвет или другой стиль для карточки
+        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
+        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
+        num_of_review: '738',
+        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
+        price: '$70'
+    },
+    {
+        id: uuidv4(),
+        contentBox: 'white',
+        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
+        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
+        num_of_review: '738',
+        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
+        price: '$70'
+    }, {
+        id: uuidv4(),
+        contentBox: 'white', // Цвет или другой стиль для карточки
+        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
+        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
+        num_of_review: '738',
+        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
+        price: '$70'
+    },
+    {
+        id: uuidv4(),
+        contentBox: 'white',
+        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
+        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
+        num_of_review: '738',
+        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
+        price: '$70'
+    },
+    {
+        id: uuidv4(),
+        contentBox: 'white', // Цвет или другой стиль для карточки
+        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
+        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
+        num_of_review: '738',
+        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
+        price: '$70'
+    },
+    {
+        id: uuidv4(),
+        contentBox: 'white',
+        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
+        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
+        num_of_review: '738',
+        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
+        price: '$70'
+    },
+    {
+        id: uuidv4(),
+        contentBox: 'white', // Цвет или другой стиль для карточки
+        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
+        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
+        num_of_review: '738',
+        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
+        price: '$70'
+    },
+    {
+        id: uuidv4(),
+        contentBox: 'white',
+        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
+        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
+        num_of_review: '738',
+        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
+        price: '$70'
+    },
+    {
+        id: uuidv4(),
+        contentBox: 'white', // Цвет или другой стиль для карточки
+        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
+        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
+        num_of_review: '738',
+        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
+        price: '$70'
+    },
+    {
+        id: uuidv4(),
+        contentBox: 'white',
+        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
+        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
+        num_of_review: '738',
+        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
+        price: '$70'
+    },
+    {
+        id: uuidv4(),
+        contentBox: 'white', // Цвет или другой стиль для карточки
+        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
+        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
+        num_of_review: '738',
+        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
+        price: '$70'
+    },
+    {
+        id: uuidv4(),
+        contentBox: 'white',
+        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
+        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
+        num_of_review: '738',
+        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
+        price: '$70'
+    },
+    {
+        id: uuidv4(),
+        contentBox: 'white', // Цвет или другой стиль для карточки
+        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
+        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
+        num_of_review: '738',
+        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
+        price: '$70'
+    },
+    {
+        id: uuidv4(),
+        contentBox: 'white',
+        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
+        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
+        num_of_review: '738',
+        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
+        price: '$70'
+    }, {
+        id: uuidv4(),
+        contentBox: 'white', // Цвет или другой стиль для карточки
+        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
+        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
+        num_of_review: '738',
+        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
+        price: '$70'
+    },
+    {
+        id: uuidv4(),
+        contentBox: 'white',
+        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
+        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
+        num_of_review: '738',
+        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
+        price: '$70'
+    },
+    {
+        id: uuidv4(),
+        contentBox: 'white', // Цвет или другой стиль для карточки
+        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
+        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
+        num_of_review: '738',
+        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
+        price: '$70'
+    },
+    {
+        id: uuidv4(),
+        contentBox: 'white',
+        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
+        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
+        num_of_review: '738',
+        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
+        price: '$70'
+    },
+    {
+        id: uuidv4(),
+        contentBox: 'white', // Цвет или другой стиль для карточки
+        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
+        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
+        num_of_review: '738',
+        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
+        price: '$70'
+    },
+    {
+        id: uuidv4(),
+        contentBox: 'white',
+        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
+        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
+        num_of_review: '738',
+        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
+        price: '$70'
+    },
+    {
+        id: uuidv4(),
+        contentBox: 'white', // Цвет или другой стиль для карточки
+        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
+        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
+        num_of_review: '738',
+        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
+        price: '$70'
+    },
+    {
+        id: uuidv4(),
+        contentBox: 'white',
+        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
+        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
+        num_of_review: '738',
+        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
+        price: '$70'
+    },
+    {
+        id: uuidv4(),
+        contentBox: 'white', // Цвет или другой стиль для карточки
+        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
+        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
+        num_of_review: '738',
+        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
+        price: '$70'
+    },
+    {
+        id: uuidv4(),
+        contentBox: 'white',
+        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
+        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
+        num_of_review: '738',
+        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
+        price: '$70'
+    },
+    {
+        id: uuidv4(),
+        contentBox: 'white', // Цвет или другой стиль для карточки
+        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
+        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
+        num_of_review: '738',
+        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
+        price: '$70'
+    },
+    {
+        id: uuidv4(),
+        contentBox: 'white',
+        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
+        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
+        num_of_review: '738',
+        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
+        price: '$70'
+    }, {
+        id: uuidv4(),
+        contentBox: 'white', // Цвет или другой стиль для карточки
+        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
+        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
+        num_of_review: '738',
+        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
+        price: '$70'
+    },
+    {
+        id: uuidv4(),
+        contentBox: 'white',
+        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
+        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
+        num_of_review: '738',
+        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
+        price: '$70'
+    },
+    {
+        id: uuidv4(),
+        contentBox: 'white', // Цвет или другой стиль для карточки
+        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
+        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
+        num_of_review: '738',
+        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
+        price: '$70'
+    },
+    {
+        id: uuidv4(),
+        contentBox: 'white',
+        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
+        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
+        num_of_review: '738',
+        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
+        price: '$70'
+    },
+    {
+        id: uuidv4(),
+        contentBox: 'white', // Цвет или другой стиль для карточки
+        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
+        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
+        num_of_review: '738',
+        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
+        price: '$70'
+    },
+    {
+        id: uuidv4(),
+        contentBox: 'white',
+        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
+        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
+        num_of_review: '738',
+        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
+        price: '$70'
+    },
+    {
+        id: uuidv4(),
+        contentBox: 'white', // Цвет или другой стиль для карточки
+        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
+        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
+        num_of_review: '738',
+        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
+        price: '$70'
+    },
+    {
+        id: uuidv4(),
+        contentBox: 'white',
+        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
+        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
+        num_of_review: '738',
+        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
+        price: '$70'
+    },
+    {
+        id: uuidv4(),
+        contentBox: 'white', // Цвет или другой стиль для карточки
+        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
+        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
+        num_of_review: '738',
+        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
+        price: '$70'
+    },
+    {
+        id: uuidv4(),
+        contentBox: 'white',
+        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
+        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
+        num_of_review: '738',
+        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
+        price: '$70'
+    },
+    {
+        id: uuidv4(),
+        contentBox: 'white', // Цвет или другой стиль для карточки
+        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
+        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
+        num_of_review: '738',
+        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
+        price: '$70'
+    },
+    {
+        id: uuidv4(),
+        contentBox: 'white',
+        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
+        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
+        num_of_review: '738',
+        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
+        price: '$70'
+    }, {
+        id: uuidv4(),
+        contentBox: 'white', // Цвет или другой стиль для карточки
+        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
+        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
+        num_of_review: '738',
+        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
+        price: '$70'
+    },
+    {
+        id: uuidv4(),
+        contentBox: 'white',
+        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
+        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
+        num_of_review: '738',
+        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
+        price: '$70'
+    },
+    {
+        id: uuidv4(),
+        contentBox: 'white', // Цвет или другой стиль для карточки
+        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
+        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
+        num_of_review: '738',
+        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
+        price: '$70'
+    },
+    {
+        id: uuidv4(),
+        contentBox: 'white',
+        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
+        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
+        num_of_review: '738',
+        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
+        price: '$70'
+    },
+    {
+        id: uuidv4(),
+        contentBox: 'white', // Цвет или другой стиль для карточки
+        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
+        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
+        num_of_review: '738',
+        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
+        price: '$70'
+    },
+    {
+        id: uuidv4(),
+        contentBox: 'white',
+        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
+        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
+        num_of_review: '738',
+        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
+        price: '$70'
+    },
+    {
+        id: uuidv4(),
+        contentBox: 'white', // Цвет или другой стиль для карточки
+        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
+        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
+        num_of_review: '738',
+        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
+        price: '$70'
+    },
+    {
+        id: uuidv4(),
+        contentBox: 'white',
+        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
+        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
+        num_of_review: '738',
+        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
+        price: '$70'
+    },
+    {
+        id: uuidv4(),
+        contentBox: 'white', // Цвет или другой стиль для карточки
+        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
+        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
+        num_of_review: '738',
+        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
+        price: '$70'
+    },
+    {
+        id: uuidv4(),
+        contentBox: 'white',
+        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
+        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
+        num_of_review: '738',
+        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
+        price: '$70'
+    },
+    {
+        id: uuidv4(),
+        contentBox: 'white', // Цвет или другой стиль для карточки
+        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
+        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
+        num_of_review: '738',
+        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
+        price: '$70'
+    },
+    {
+        id: uuidv4(),
+        contentBox: 'white',
+        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
+        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
+        num_of_review: '738',
+        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
+        price: '$70'
+    }, {
+        id: uuidv4(),
+        contentBox: 'white', // Цвет или другой стиль для карточки
+        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
+        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
+        num_of_review: '738',
+        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
+        price: '$70'
+    },
+    {
+        id: uuidv4(),
+        contentBox: 'white',
+        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
+        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
+        num_of_review: '738',
+        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
+        price: '$70'
+    },
+    {
+        id: uuidv4(),
+        contentBox: 'white', // Цвет или другой стиль для карточки
+        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
+        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
+        num_of_review: '738',
+        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
+        price: '$70'
+    },
+    {
+        id: uuidv4(),
+        contentBox: 'white',
+        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
+        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
+        num_of_review: '738',
+        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
+        price: '$70'
+    },
+    {
+        id: uuidv4(),
+        contentBox: 'white', // Цвет или другой стиль для карточки
+        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
+        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
+        num_of_review: '738',
+        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
+        price: '$70'
+    },
+    {
+        id: uuidv4(),
+        contentBox: 'white',
+        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
+        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
+        num_of_review: '738',
+        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
+        price: '$70'
+    },
+    {
+        id: uuidv4(),
+        contentBox: 'white', // Цвет или другой стиль для карточки
+        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
+        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
+        num_of_review: '738',
+        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
+        price: '$70'
+    },
+    {
+        id: uuidv4(),
+        contentBox: 'white',
+        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
+        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
+        num_of_review: '738',
+        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
+        price: '$70'
+    },
+    {
+        id: uuidv4(),
+        contentBox: 'white', // Цвет или другой стиль для карточки
+        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
+        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
+        num_of_review: '738',
+        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
+        price: '$70'
+    },
+    {
+        id: uuidv4(),
+        contentBox: 'white',
+        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
+        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
+        num_of_review: '738',
+        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
+        price: '$70'
+    },
+    {
+        id: uuidv4(),
+        contentBox: 'white', // Цвет или другой стиль для карточки
+        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
+        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
+        num_of_review: '738',
+        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
+        price: '$70'
+    },
+    {
+        id: uuidv4(),
+        contentBox: 'white',
+        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
+        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
+        num_of_review: '738',
+        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
+        price: '$70'
+    }, {
+        id: uuidv4(),
+        contentBox: 'white', // Цвет или другой стиль для карточки
+        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
+        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
+        num_of_review: '738',
+        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
+        price: '$70'
+    },
+    {
+        id: uuidv4(),
+        contentBox: 'white',
+        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
+        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
+        num_of_review: '738',
+        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
+        price: '$70'
+    },
+    {
+        id: uuidv4(),
+        contentBox: 'white', // Цвет или другой стиль для карточки
+        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
+        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
+        num_of_review: '738',
+        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
+        price: '$70'
+    },
+    {
+        id: uuidv4(),
+        contentBox: 'white',
+        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
+        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
+        num_of_review: '738',
+        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
+        price: '$70'
+    },
+    {
+        id: uuidv4(),
+        contentBox: 'white', // Цвет или другой стиль для карточки
+        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
+        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
+        num_of_review: '738',
+        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
+        price: '$70'
+    },
+    {
+        id: uuidv4(),
+        contentBox: 'white',
+        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
+        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
+        num_of_review: '738',
+        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
+        price: '$70'
+    },
+    {
+        id: uuidv4(),
+        contentBox: 'white', // Цвет или другой стиль для карточки
+        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
+        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
+        num_of_review: '738',
+        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
+        price: '$70'
+    },
+    {
+        id: uuidv4(),
+        contentBox: 'white',
+        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
+        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
+        num_of_review: '738',
+        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
+        price: '$70'
+    },
+    {
+        id: uuidv4(),
+        contentBox: 'white', // Цвет или другой стиль для карточки
+        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
+        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
+        num_of_review: '738',
+        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
+        price: '$70'
+    },
+    {
+        id: uuidv4(),
+        contentBox: 'white',
+        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
+        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
+        num_of_review: '738',
+        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
+        price: '$70'
+    },
+    {
+        id: uuidv4(),
+        contentBox: 'white', // Цвет или другой стиль для карточки
+        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
+        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
+        num_of_review: '738',
+        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
+        price: '$70'
+    },
+    {
+        id: uuidv4(),
+        contentBox: 'white',
+        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
+        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
+        num_of_review: '738',
+        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
+        price: '$70'
+    }, {
+        id: uuidv4(),
+        contentBox: 'white', // Цвет или другой стиль для карточки
+        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
+        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
+        num_of_review: '738',
+        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
+        price: '$70'
+    },
+    {
+        id: uuidv4(),
+        contentBox: 'white',
+        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
+        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
+        num_of_review: '738',
+        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
+        price: '$70'
+    },
+    {
+        id: uuidv4(),
+        contentBox: 'white', // Цвет или другой стиль для карточки
+        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
+        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
+        num_of_review: '738',
+        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
+        price: '$70'
+    },
+    {
+        id: uuidv4(),
+        contentBox: 'white',
+        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
+        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
+        num_of_review: '738',
+        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
+        price: '$70'
+    },
+    {
+        id: uuidv4(),
+        contentBox: 'white', // Цвет или другой стиль для карточки
+        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
+        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
+        num_of_review: '738',
+        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
+        price: '$70'
+    },
+    {
+        id: uuidv4(),
+        contentBox: 'white',
+        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
+        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
+        num_of_review: '738',
+        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
+        price: '$70'
+    },
+    {
+        id: uuidv4(),
+        contentBox: 'white', // Цвет или другой стиль для карточки
+        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
+        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
+        num_of_review: '738',
+        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
+        price: '$70'
+    },
+    {
+        id: uuidv4(),
+        contentBox: 'white',
+        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
+        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
+        num_of_review: '738',
+        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
+        price: '$70'
+    },
+    {
+        id: uuidv4(),
+        contentBox: 'white', // Цвет или другой стиль для карточки
+        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
+        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
+        num_of_review: '738',
+        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
+        price: '$70'
+    },
+    {
+        id: uuidv4(),
+        contentBox: 'white',
+        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
+        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
+        num_of_review: '738',
+        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
+        price: '$70'
+    },
+    {
+        id: uuidv4(),
+        contentBox: 'white', // Цвет или другой стиль для карточки
+        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
+        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
+        num_of_review: '738',
+        name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
+        price: '$70'
+    },
+    {
+        id: uuidv4(),
+        contentBox: 'white',
+        image24: '/assets/61c5f0c7aca44b3f5a87801ef78bbeb1.png',
+        image25: '/assets/f1f54f0b36a156129e0c6337e2e71970.svg',
+        num_of_review: '738',
         name: 'TOZO T6 True Wireless Earbuds Bluetooth Headphon...',
         price: '$70'
     },
